@@ -1,0 +1,71 @@
+name: release
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  NDK_VERSION: 28.2.13676358
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read version, check tag
+        id: ver
+        run: |
+          V=$(sed -n 's/^version = "\(.*\)"$/\1/p' Cargo.toml | head -1)
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+          if git ls-remote --exit-code origin "refs/tags/v$V" > /dev/null; then
+            echo "build=${{ github.event_name == 'workflow_dispatch' }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "build=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-java@v4
+        if: steps.ver.outputs.build == 'true'
+        with:
+          distribution: temurin
+          java-version: 21
+      - uses: android-actions/setup-android@v3
+        if: steps.ver.outputs.build == 'true'
+      - name: Pin NDK
+        if: steps.ver.outputs.build == 'true'
+        run: |
+          sdkmanager "ndk;${NDK_VERSION}" "platforms;android-36" "build-tools;36.0.0"
+          find "$ANDROID_HOME/ndk" -mindepth 1 -maxdepth 1 ! -name "$NDK_VERSION" -exec rm -rf {} +
+      - uses: dtolnay/rust-toolchain@stable
+        if: steps.ver.outputs.build == 'true'
+        with:
+          targets: aarch64-linux-android
+      - uses: Swatinem/rust-cache@v2
+        if: steps.ver.outputs.build == 'true'
+      - uses: oven-sh/setup-bun@v2
+        if: steps.ver.outputs.build == 'true'
+      - uses: extractions/setup-just@v2
+        if: steps.ver.outputs.build == 'true'
+      - uses: cargo-bins/cargo-binstall@main
+        if: steps.ver.outputs.build == 'true'
+      - name: Install tauri-cli
+        if: steps.ver.outputs.build == 'true'
+        run: cargo binstall -y tauri-cli
+      - name: Build signed APK
+        if: steps.ver.outputs.build == 'true'
+        run: |
+          cd ui && bun install --frozen-lockfile && cd ..
+          KOKORO_ORT=prebuilt just src android-build
+          cp src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release.apk "kokoroand-v${{ steps.ver.outputs.version }}.apk"
+      - uses: actions/upload-artifact@v4
+        if: steps.ver.outputs.build == 'true'
+        with:
+          name: kokoroand-v${{ steps.ver.outputs.version }}
+          path: kokoroand-v${{ steps.ver.outputs.version }}.apk
+      - uses: softprops/action-gh-release@v2
+        if: steps.ver.outputs.build == 'true'
+        with:
+          tag_name: v${{ steps.ver.outputs.version }}
+          files: kokoroand-v${{ steps.ver.outputs.version }}.apk

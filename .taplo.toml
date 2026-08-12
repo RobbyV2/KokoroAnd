@@ -1,0 +1,7 @@
+exclude = [
+  "temp/**",
+  "target/**",
+  "node_modules/**",
+  "src-tauri/gen/**",
+  ".venv/**",
+]

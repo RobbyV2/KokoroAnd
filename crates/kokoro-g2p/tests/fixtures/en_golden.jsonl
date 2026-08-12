@@ -1,0 +1,409 @@
+{"text": "Hello, this is a TTS test.", "phonemes": "həlˈO, ðɪs ɪz ɐ tˌitˌiˈɛs tˈɛst."}
+{"text": "The quick brown fox jumps over the lazy dog.", "phonemes": "ðə kwˈɪk bɹˈWn fˈɑks ʤˈʌmps ˈOvəɹ ðə lˈAzi dˈɔɡ."}
+{"text": "She sells seashells by the seashore.", "phonemes": "ʃˌi sˈɛlz sˈiʃˌɛlz bI ðə sˈiʃˌɔɹ."}
+{"text": "I would like a cup of coffee, please.", "phonemes": "ˌI wʊd lˈIk ɐ kˈʌp ʌv kˈɔfi, plˈiz."}
+{"text": "The train leaves from platform nine.", "phonemes": "ðə tɹˈAn lˈivz fɹʌm plˈætfˌɔɹm nˈIn."}
+{"text": "My neighbor built a wooden fence around the garden.", "phonemes": "mˌI nˈAbəɹ bˈɪlt ɐ wˈʊdᵊn fˈɛns əɹˈWnd ðə ɡˈɑɹdən."}
+{"text": "Rain fell steadily against the kitchen window.", "phonemes": "ɹˈAn fˈɛl stˈɛdəli əɡˈɛnst ðə kˈɪʧᵊn wˈɪndO."}
+{"text": "He forgot his umbrella at the office again.", "phonemes": "hˌi fəɹɡˈɑt hɪz ˌʌmbɹˈɛlə æt ði ˈɔfəs əɡˈɛn."}
+{"text": "Can you hear me now?", "phonemes": "kˌæn ju hˈɪɹ mˌi nˈW?"}
+{"text": "That was surprisingly straightforward.", "phonemes": "ðˈæt wʌz səɹpɹˈIzɪŋli stɹˌAtfˈɔɹwəɹd."}
+{"text": "We walked home through the park after dinner.", "phonemes": "wˌi wˈɔkt hˈOm θɹu ðə pˈɑɹk ˈæftəɹ dˈɪnəɹ."}
+{"text": "The library closes early on Sundays.", "phonemes": "ðə lˈIbɹˌɛɹi klˈOzᵻz ˈɜɹli ˌɔn sˈʌndˌAz."}
+{"text": "Nobody expected the meeting to run that long.", "phonemes": "nˈObˌɑdi ɪkspˈɛktᵻd ðə mˈiTɪŋ tə ɹˈʌn ðæt lˈɔŋ."}
+{"text": "Put the milk back in the refrigerator.", "phonemes": "pˌʊt ðə mˈɪlk bˈæk ɪn ðə ɹəfɹˈɪʤəɹˌATəɹ."}
+{"text": "A small orange cat sat on the warm hood of the car.", "phonemes": "ɐ smˈɔl ˈɔɹᵊnʤ kˈæt sˈæt ˌɔn ðə wˈɔɹm hˈʊd ʌv ðə kˈɑɹ."}
+{"text": "Turn left at the second traffic light.", "phonemes": "tˈɜɹn lˈɛft æt ðə sˈɛkənd tɹˈæfɪk lˈIt."}
+{"text": "The soup needs more salt and a little pepper.", "phonemes": "ðə sˈup nˈidz mˈɔɹ sˈɔlt ænd ɐ lˈɪTᵊl pˈɛpəɹ."}
+{"text": "Everyone agreed the plan was reasonable.", "phonemes": "ˈɛvɹiwən əɡɹˈid ðə plˈæn wʌz ɹˈizənəbᵊl."}
+{"text": "I have never been to Iceland.", "phonemes": "ˌI hæv nˈɛvəɹ bɪn tʊ ˈIslənd."}
+{"text": "The children built a fort out of couch cushions.", "phonemes": "ðə ʧˈɪldɹᵊn bˈɪlt ɐ fˈɔɹt ˈWt ʌv kˈWʧ kˈʊʃənz."}
+{"text": "This sentence is deliberately quite long so that the chunker has something substantial to work with when it decides where to break the audio.", "phonemes": "ðˌɪs sˈɛntᵊns ɪz dəlˈɪbəɹətli kwˈIt lˈɔŋ sˌO ðæt ðə  hæz sˈʌmθˌɪŋ sˌʌbstˈænʧəl tə wˈɜɹk wɪð wˌɛn ɪt dəsˈIdz wˌɛɹ tə bɹˈAk ði ˈɔdiO."}
+{"text": "Please close the door behind you.", "phonemes": "plˈiz klˈOz ðə dˈɔɹ bəhˈInd ju."}
+{"text": "The engine made a strange rattling noise.", "phonemes": "ði ˈɛnʤən mˌAd ɐ stɹˈAnʤ ɹˈæTəlɪŋ nˈYz."}
+{"text": "Sunlight came through the blinds in narrow stripes.", "phonemes": "sˈʌnlˌIt kˈAm θɹu ðə blˈIndz ɪn nˈɛɹO stɹˈIps."}
+{"text": "We should probably leave before the traffic gets worse.", "phonemes": "wˌi ʃˌʊd pɹˈɑbəbli lˈiv bəfˈɔɹ ðə tɹˈæfɪk ɡɛts wˈɜɹs."}
+{"text": "There is a spider in the bathtub.", "phonemes": "ðˌɛɹ ɪz ɐ spˈIdəɹ ɪn ðə bˈæθtˌʌb."}
+{"text": "The bread has gone stale.", "phonemes": "ðə bɹˈɛd hæz ɡɔn stˈAl."}
+{"text": "He apologized twice and then left.", "phonemes": "hˌi əpˈɑləʤˌIzd twˈIs ænd ðˈɛn lˈɛft."}
+{"text": "Snow covered the driveway overnight.", "phonemes": "snˈO kˈʌvəɹd ðə dɹˈIvwˌA ˌOvəɹnˈIt."}
+{"text": "The camera shutter clicked softly.", "phonemes": "ðə kˈæməɹə ʃˈʌTəɹ klˈɪkt sˈɔftli."}
+{"text": "I cannot find my keys anywhere.", "phonemes": "ˌI kənˈɑt fˈInd mI kˈiz ˈɛniwˌɛɹ."}
+{"text": "Her handwriting is remarkably neat.", "phonemes": "hˌɜɹ hˈændɹˌITɪŋ ɪz ɹəmˈɑɹkəbli nˈit."}
+{"text": "The dog barked at nothing in particular.", "phonemes": "ðə dˈɔɡ bˈɑɹkt æt nˈʌθɪŋ ɪn pəɹtˈɪkjələɹ."}
+{"text": "We ran out of printer paper.", "phonemes": "wˌi ɹˈæn ˈWt ʌv pɹˈɪntəɹ pˈApəɹ."}
+{"text": "The concert was louder than I expected.", "phonemes": "ðə kˈɑnsəɹt wʌz lˈWdəɹ ðən ˌI ɪkspˈɛktᵻd."}
+{"text": "A cold wind came off the water.", "phonemes": "ɐ kˈOld wˈɪnd kˈAm ˈɔf ðə wˈɔTəɹ."}
+{"text": "He reads the newspaper every morning.", "phonemes": "hˌi ɹˈidz ðə nˈuzpˌApəɹ ˈɛvəɹi mˈɔɹnɪŋ."}
+{"text": "The floorboards creak near the staircase.", "phonemes": "ðə flˈɔɹbˌɔɹdz kɹˈik nˌɪɹ ðə stˈɛɹkˌAs."}
+{"text": "That restaurant does not take reservations.", "phonemes": "ðˈæt ɹˈɛstəɹənt dˈʌz nˌɑt tˈAk ɹˌɛzəɹvˈAʃənz."}
+{"text": "My phone battery died halfway through the call.", "phonemes": "mˌI fˈOn bˈæTəɹi dˈId hˌæfwˈA θɹu ðə kˈɔl."}
+{"text": "The mountain path was steeper than the map suggested.", "phonemes": "ðə mˈWntᵊn pˈæθ wʌz stˈipəɹ ðən ðə mˈæp səɡʤˈɛstᵻd."}
+{"text": "She laughed at her own joke.", "phonemes": "ʃˌi lˈæft æt hɜɹ ˈOn ʤˈOk."}
+{"text": "The clock on the wall stopped at some point last week.", "phonemes": "ðə klˈɑk ˌɔn ðə wˈɔl stˈɑpt æt sˌʌm pˈYnt lˈæst wˈik."}
+{"text": "Fresh basil grows on the windowsill.", "phonemes": "fɹˈɛʃ bˈæzᵊl ɡɹˈOz ˌɔn ðə wˈɪndOsˌɪl."}
+{"text": "The bus was already pulling away.", "phonemes": "ðə bˈʌs wʌz ˌɔlɹˈɛdi pˈʊlɪŋ əwˈA."}
+{"text": "Nothing in the fridge looked appetizing.", "phonemes": "nˈʌθɪŋ ɪn ðə fɹˈɪʤ lˈʊkt ˈæpətˌIzɪŋ."}
+{"text": "He kept the receipt just in case.", "phonemes": "hˌi kˈɛpt ðə ɹəsˈit ʤˈʌst ɪn kˈAs."}
+{"text": "The paint is still wet, so be careful.", "phonemes": "ðə pˈAnt ɪz stˈɪl wˈɛt, sˌO bi kˈɛɹfᵊl."}
+{"text": "Two crows landed on the telephone wire.", "phonemes": "tˈu kɹˈOz lˈændᵻd ˌɔn ðə tˈɛləfˌOn wˈIəɹ."}
+{"text": "I forgot to water the plants.", "phonemes": "ˌI fəɹɡˈɑt tə wˈɔTəɹ ðə plˈænts."}
+{"text": "The elevator smelled faintly of cinnamon.", "phonemes": "ði ˈɛləvˌATəɹ smˈɛld fˈAntli ʌv sˈɪnəmən."}
+{"text": "This is the third time this has happened.", "phonemes": "ðˌɪs ɪz ðə θˈɜɹd tˈIm ðɪs hæz hˈæpənd."}
+{"text": "The lake froze solid by December.", "phonemes": "ðə lˈAk fɹˈOz sˈɑləd bI disˈɛmbəɹ."}
+{"text": "She tuned the guitar by ear.", "phonemes": "ʃˌi tˈund ðə ɡətˈɑɹ bI ˈɪɹ."}
+{"text": "The package arrived crushed on one corner.", "phonemes": "ðə pˈækɪʤ əɹˈIvd kɹˈʌʃt ˌɔn wˈʌn kˈɔɹnəɹ."}
+{"text": "Salt water taffy sticks to your teeth.", "phonemes": "sˈɔlt wˈɔTəɹ tˈæfi stˈɪks tə jʊɹ tˈiθ."}
+{"text": "A moth circled the porch light.", "phonemes": "ɐ mˈɔθ sˈɜɹkᵊld ðə pˈɔɹʧ lˈIt."}
+{"text": "The hallway was lined with framed photographs.", "phonemes": "ðə hˈɔlwˌA wʌz lˈInd wɪð fɹˈAmd fˈOTəɡɹˌæfz."}
+{"text": "We took the scenic route on purpose.", "phonemes": "wˌi tˈʊk ðə sˈinɪk ɹˈut ˌɔn pˈɜɹpəs."}
+{"text": "The kettle whistled and he ignored it.", "phonemes": "ðə kˈɛTᵊl wˈɪsᵊld ænd hi ɪɡnˈɔɹd ɪt."}
+{"text": "There are 7 continents and 5 oceans.", "phonemes": "ðˌɛɹ ɑɹ sˈɛvən kˈɑntᵊnənts ænd fˈIv ˈOʃənz."}
+{"text": "The answer is 42.", "phonemes": "ði ˈænsəɹ ɪz fˈɔɹTi tˈu."}
+{"text": "She ran 13.1 miles on Saturday.", "phonemes": "ʃˌi ɹˈæn θˌɜɹtˈin pYnt wˈʌn mˈIlz ˌɔn sˈæTəɹdˌA."}
+{"text": "We need 250 chairs for the event.", "phonemes": "wˌi nˈid tˈu hˈʌndɹəd fˈɪfti ʧˈɛɹz fɔɹ ði əvˈɛnt."}
+{"text": "The population reached 8,100,000,000 last year.", "phonemes": "ðə pˌɑpjəlˈAʃən ɹˈiʧt ˈAt bˈɪljən wˈʌn hˈʌndɹəd mˈɪljᵊn lˈæst jˈɪɹ."}
+{"text": "Add 3/4 cup of flour to the bowl.", "phonemes": "ˈæd θɹˈi fˈɔɹ kˈʌp ʌv flˈWəɹ tə ðə bˈOl."}
+{"text": "The temperature dropped to -12 degrees.", "phonemes": "ðə tˈɛmpɹəʧəɹ dɹˈɑpt tə mˈInəs twˈɛlv dəɡɹˈiz."}
+{"text": "He scored 98 out of 100.", "phonemes": "hˌi skˈɔɹd nˈIndi ˈAt ˈWt ʌv wˈʌn hˈʌndɹəd."}
+{"text": "That is a 15% increase over last quarter.", "phonemes": "ðˈæt ɪz ɐ fˌɪftˈin pəɹsˈɛnt ˈɪnkɹˌis ˈOvəɹ lˈæst kwˈɔɹTəɹ."}
+{"text": "The file is 1024 bytes long.", "phonemes": "ðə fˈIl ɪz tˈɛn twˈɛnti fˈɔɹ bˈIts lˈɔŋ."}
+{"text": "Chapter 12 begins on page 347.", "phonemes": "ʧˈæptəɹ twˈɛlv bəɡˈɪnz ˌɔn pˈAʤ θɹˈi hˈʌndɹəd fˈɔɹTi sˈɛvən."}
+{"text": "There were 1,000,001 entries in the log.", "phonemes": "ðˌɛɹ wɜɹ wˈʌn mˈɪljᵊn wˈʌn ˈɛntɹiz ɪn ðə lˈɔɡ."}
+{"text": "Turn to section 4.2.1 of the manual.", "phonemes": "tˈɜɹn tə sˈɛkʃən fˈɔɹ tˈu wˈʌn ʌv ðə mˈænjəwəl."}
+{"text": "The recipe serves 6 people.", "phonemes": "ðə ɹˈɛsəpˌi sˈɜɹvz sˈɪks pˈipᵊl."}
+{"text": "My locker number is 217.", "phonemes": "mˌI lˈɑkəɹ nˈʌmbəɹ ɪz tˈu hˈʌndɹəd sˌɛvəntˈin."}
+{"text": "It weighs 2.5 kilograms.", "phonemes": "ˌɪt wˈAz tˈu pYnt fˈIv kˈɪləɡɹˌæmz."}
+{"text": "He finished 1st and she finished 3rd.", "phonemes": "hˌi fˈɪnəʃt fˈɜɹst ænd ʃi fˈɪnəʃt θˈɜɹd."}
+{"text": "The 21st runner crossed at 2 hours flat.", "phonemes": "ðə twˈɛnti fˈɜɹst ɹˈʌnəɹ kɹˈɔst æt tˈu ˈWəɹz flˈæt."}
+{"text": "We sold 0 tickets on the first day.", "phonemes": "wˌi sˈOld zˈɪɹO tˈɪkəts ˌɔn ðə fˈɜɹst dˈA."}
+{"text": "Room 101 is on the ground floor.", "phonemes": "ɹˈum wˈʌn hˈʌndɹəd wˈʌn ɪz ˌɔn ðə ɡɹˈWnd flˈɔɹ."}
+{"text": "The odds were 1 in 10,000.", "phonemes": "ði ˈɑdz wɜɹ wˈʌn ɪn tˈɛn θˈWzᵊnd."}
+{"text": "Version 3.11.9 fixed the bug.", "phonemes": "vˈɜɹʒən θɹˈi əlˈɛvᵊn nˈIn fˈɪkst ðə bˈʌɡ."}
+{"text": "It measures 60 by 40 centimeters.", "phonemes": "ˌɪt mˈɛʒəɹz sˈɪksti bI fˈɔɹTi sˈɛntəmˌiTəɹz."}
+{"text": "There are 60 seconds in a minute and 3600 in an hour.", "phonemes": "ðˌɛɹ ɑɹ sˈɪksti sˈɛkəndz ɪn ɐ mˈɪnət ænd θˈɜɹTi sˈɪks hˈʌndɹəd ɪn ɐn ˈWəɹ."}
+{"text": "The bridge spans 1.8 kilometers.", "phonemes": "ðə bɹˈɪʤ spˈænz wˈʌn pYnt ˈAt kəlˈɑməTəɹz."}
+{"text": "She turned 30 in June.", "phonemes": "ʃˌi tˈɜɹnd θˈɜɹTi ɪn ʤˈun."}
+{"text": "A dozen eggs plus 2 more makes 14.", "phonemes": "ɐ dˈʌzᵊn ˈɛɡz plˈʌs tˈu mˈɔɹ mˌAks fˌɔɹtˈin."}
+{"text": "The score was 3-2 in overtime.", "phonemes": "ðə skˈɔɹ wʌz θɹˈitˌu ɪn ˈOvəɹtˌIm."}
+{"text": "Flight 447 departs from gate 22.", "phonemes": "flˈIt fˈɔɹ hˈʌndɹəd fˈɔɹTi sˈɛvən dəpˈɑɹts fɹʌm ɡˈAt twˈɛnti tˈu."}
+{"text": "He owns 3 cars and 2 motorcycles.", "phonemes": "hˌi ˈOnz θɹˈi kˈɑɹz ænd tˈu mˈOTəɹsˌIkᵊlz."}
+{"text": "The bill passed 218 to 210.", "phonemes": "ðə bˈɪl pˈæst tˈu hˈʌndɹəd ˌAtˈin tə tˈu hˈʌndɹəd tˈɛn."}
+{"text": "Divide 144 by 12.", "phonemes": "dəvˈId wˈʌn hˈʌndɹəd fˈɔɹTi fˈɔɹ bI twˈɛlv."}
+{"text": "The array has 256 elements.", "phonemes": "ði əɹˈA hæz tˈu hˈʌndɹəd fˈɪfti sˈɪks ˈɛləmənts."}
+{"text": "Her blood pressure was 120 over 80.", "phonemes": "hˌɜɹ blˈʌd pɹˈɛʃəɹ wʌz wˈʌn hˈʌndɹəd twˈɛnti ˈOvəɹ ˈATi."}
+{"text": "The tank holds 55 gallons.", "phonemes": "ðə tˈæŋk hˈOldz fˈɪfti fˈIv ɡˈælənz."}
+{"text": "About 2/3 of respondents agreed.", "phonemes": "əbˈWt tˈu θɹˈi ʌv ɹəspˈɑndᵊnts əɡɹˈid."}
+{"text": "The interest rate rose to 5.25%.", "phonemes": "ði ˈɪntɹəst ɹˈAt ɹˈOz tə fˈIv pYnt tˈu fˈIv pəɹsˈɛnt."}
+{"text": "We hiked 8 miles in 4 hours.", "phonemes": "wˌi hˈIkt ˈAt mˈIlz ɪn fˈɔɹ ˈWəɹz."}
+{"text": "There are 26 letters in the alphabet.", "phonemes": "ðˌɛɹ ɑɹ twˈɛnti sˈɪks lˈɛTəɹz ɪn ði ˈælfəbˌɛt."}
+{"text": "The bag weighed 17.75 pounds exactly.", "phonemes": "ðə bˈæɡ wˈAd sˌɛvəntˈin pYnt sˈɛvən fˈIv pˈWndz ɪɡzˈæktli."}
+{"text": "Call extension 4501 for support.", "phonemes": "kˈɔl ɪkstˈɛnʃᵊn fˈɔɹTi fˈIv ˈO wˈʌn fɔɹ səpˈɔɹt."}
+{"text": "It costs 99 cents per unit.", "phonemes": "ˌɪt kˈɔsts nˈIndi nˈIn sˈɛnts pɜɹ jˈunət."}
+{"text": "The stadium seats 68,500 fans.", "phonemes": "ðə stˈAdiəm sˈits sˈɪksti ˈAt θˈWzᵊnd fˈIv hˈʌndɹəd fˈænz."}
+{"text": "He read 400 pages in one sitting.", "phonemes": "hˌi ɹˈɛd fˈɔɹ hˈʌndɹəd pˈAʤᵻz ɪn wˈʌn sˈɪTɪŋ."}
+{"text": "The margin was 0.03 percent.", "phonemes": "ðə mˈɑɹʤən wʌz zˈɪɹO pYnt zˈɪɹO θɹˈi pəɹsˈɛnt."}
+{"text": "She was born in 1987.", "phonemes": "ʃˌi wʌz bˈɔɹn ɪn nˌIntˈin ˈATi sˈɛvən."}
+{"text": "The war ended in 1945.", "phonemes": "ðə wˈɔɹ ˈɛndᵻd ɪn nˌIntˈin fˈɔɹTi fˈIv."}
+{"text": "In 1066 the Normans invaded England.", "phonemes": "ɪn tˈɛn sˈɪksti sˈɪks ðə nˈɔɹmᵊnz ɪnvˈAdᵻd ˈɪŋɡlənd."}
+{"text": "The company was founded in 2003.", "phonemes": "ðə kˈʌmpᵊni wʌz fˈWndᵻd ɪn tˈu θˈWzᵊnd θɹˈi."}
+{"text": "By 2030 the fleet will be electric.", "phonemes": "bˌI twˈɛnti θˈɜɹTi ðə flˈit wɪl bi əlˈɛktɹɪk."}
+{"text": "The 1800s were a period of rapid change.", "phonemes": "ði ˌAtˈin hˈʌndɹədz wɜɹ ɐ pˈɪɹiəd ʌv ɹˈæpəd ʧˈAnʤ."}
+{"text": "It happened on July 4, 1776.", "phonemes": "ˌɪt hˈæpənd ˌɔn ʤəlˈI fˈɔɹ, sˌɛvəntˈin sˈɛvənti sˈɪks."}
+{"text": "The report is dated March 15, 2019.", "phonemes": "ðə ɹəpˈɔɹt ɪz dˈATᵻd mˈɑɹʧ fˌɪftˈin, twˈɛnti nˌIntˈin."}
+{"text": "We met on 12/25/2021.", "phonemes": "wˌi mˈɛt ˌɔn twˈɛlv twˈɛnti fˈIv twˈɛnti twˈɛnti wˈʌn."}
+{"text": "The deadline is 2026-08-11.", "phonemes": "ðə dˈɛdlˌIn ɪz twˈɛnti twˈɛnti sˈɪkszˈɪɹO ˈAtəlˌɛvᵊn."}
+{"text": "The 1920s are often called the Jazz Age.", "phonemes": "ðə nˌIntˈin twˈɛntiz ɑɹ ˈɔfᵊn kˈɔld ðə ʤˈæz ˈAʤ."}
+{"text": "Between 1914 and 1918 everything changed.", "phonemes": "bətwˈin nˌIntˈin fˌɔɹtˈin ænd nˌIntˈin ˌAtˈin ˈɛvəɹiθˌɪŋ ʧˈAnʤd."}
+{"text": "See you in 2040.", "phonemes": "sˈi ju ɪn twˈɛnti fˈɔɹTi."}
+{"text": "The building dates to 1901.", "phonemes": "ðə bˈɪldɪŋ dˈAts tə nˌIntˈin ˈO wˈʌn."}
+{"text": "The eclipse occurs on April 8, 2024.", "phonemes": "ði əklˈɪps əkˈɜɹz ˌɔn ˈApɹəl ˈAt, twˈɛnti twˈɛnti fˈɔɹ."}
+{"text": "He graduated in the class of 2010.", "phonemes": "hˌi ɡɹˈæʤʊˌATᵻd ɪn ðə klˈæs ʌv twˈɛnti tˈɛn."}
+{"text": "The treaty was signed in 1648.", "phonemes": "ðə tɹˈiTi wʌz sˈInd ɪn sˌɪkstˈin fˈɔɹTi ˈAt."}
+{"text": "Records from 1600 to 1700 are incomplete.", "phonemes": "ɹˈɛkəɹdz fɹʌm sˌɪkstˈin hˈʌndɹəd tə sˌɛvəntˈin hˈʌndɹəd ɑɹ ˌɪnkəmplˈit."}
+{"text": "The next census is in 2030.", "phonemes": "ðə nˈɛkst sˈɛnsəs ɪz ɪn twˈɛnti θˈɜɹTi."}
+{"text": "It was rebuilt in 2008 after the fire.", "phonemes": "ˌɪt wʌz ɹibˈɪlt ɪn tˈu θˈWzᵊnd ˈAt ˈæftəɹ ðə fˈIəɹ."}
+{"text": "The 90s had better cartoons.", "phonemes": "ðə nˈIndiz hæd bˈɛTəɹ kɑɹtˈunz."}
+{"text": "Her lease ends on September 1st.", "phonemes": "hˌɜɹ lˈis ˈɛndz ˌɔn sɛptˈɛmbəɹ fˈɜɹst."}
+{"text": "The concert is on Friday the 13th.", "phonemes": "ðə kˈɑnsəɹt ɪz ˌɔn fɹˈIdˌA ðə θˌɜɹtˈinθ."}
+{"text": "The fiscal year runs from April 2024 to March 2025.", "phonemes": "ðə fˈɪskᵊl jˈɪɹ ɹˈʌnz fɹʌm ˈApɹəl twˈɛnti twˈɛnti fˈɔɹ tə mˈɑɹʧ twˈɛnti twˈɛnti fˈIv."}
+{"text": "In the summer of 1969 everything felt possible.", "phonemes": "ɪn ðə sˈʌməɹ ʌv nˌIntˈin sˈɪksti nˈIn ˈɛvəɹiθˌɪŋ fˈɛlt pˈɑsəbᵊl."}
+{"text": "The manuscript is from 1523.", "phonemes": "ðə mˈænjəskɹˌɪpt ɪz fɹʌm fˌɪftˈin twˈɛnti θɹˈi."}
+{"text": "The store opened in 2000 and closed in 2020.", "phonemes": "ðə stˈɔɹ ˈOpᵊnd ɪn tˈu θˈWzᵊnd ænd klˈOzd ɪn twˈɛnti twˈɛnti."}
+{"text": "On October 31 we hand out candy.", "phonemes": "ˌɔn ɑktˈObəɹ θˈɜɹTi wˈʌn wi hˈænd ˈWt kˈændi."}
+{"text": "The patent expired in 2017.", "phonemes": "ðə pˈætnt ɪkspˈIəɹd ɪn twˈɛnti sˌɛvəntˈin."}
+{"text": "The article was published on 2 February 2011.", "phonemes": "ði ˈɑɹTəkᵊl wʌz pˈʌblɪʃt ˌɔn tˈu fˈɛbjəwˌɛɹi twˈɛnti əlˈɛvᵊn."}
+{"text": "The book costs $19.99.", "phonemes": "ðə bˈʊk kˈɔsts nˌIntˈin dˈɑləɹz ænd nˈIndi nˈIn sˈɛnts."}
+{"text": "He paid $1,234.56 for the repair.", "phonemes": "hˌi pˈAd wˈʌn θˈWzᵊnd tˈu hˈʌndɹəd θˈɜɹTi fˈɔɹ dˈɑləɹz ænd fˈɪfti sˈɪks sˈɛnts fɔɹ ðə ɹəpˈɛɹ."}
+{"text": "The house sold for $450,000.", "phonemes": "ðə hˈWs sˈOld fɔɹ fˈɔɹ hˈʌndɹəd fˈɪfti θˈWzᵊnd dˈɑləɹz."}
+{"text": "It only costs $5.", "phonemes": "ˌɪt ˈOnli kˈɔsts fˈIv dˈɑləɹz."}
+{"text": "The fine was $2,500 plus fees.", "phonemes": "ðə fˈIn wʌz tˈu θˈWzᵊnd fˈIv hˈʌndɹəd dˈɑləɹz plˈʌs fˈiz."}
+{"text": "She earns £52,000 a year.", "phonemes": "ʃˌi ˈɜɹnz fˈɪfti tˈu θˈWzᵊnd pˈWndz ɐ jˈɪɹ."}
+{"text": "That will be €12.40, please.", "phonemes": "ðˈæt wɪl bi twˈɛlv jˈʊɹOz ænd fˈɔɹTi sˈɛnts, plˈiz."}
+{"text": "The budget is $3.2 million.", "phonemes": "ðə bˈʌʤət ɪz θɹˈi pYnt tˈu mˈɪljᵊn dˈɑləɹz."}
+{"text": "They raised $1.5 billion in funding.", "phonemes": "ðˌA ɹˈAzd wˈʌn pYnt fˈIv bˈɪljən dˈɑləɹz ɪn fˈʌndɪŋ."}
+{"text": "The coffee was $4.75 with tax.", "phonemes": "ðə kˈɔfi wʌz fˈɔɹ dˈɑləɹz ænd sˈɛvənti fˈIv sˈɛnts wɪð tˈæks."}
+{"text": "I found 50 cents under the couch.", "phonemes": "ˌI fˈWnd fˈɪfti sˈɛnts ˈʌndəɹ ðə kˈWʧ."}
+{"text": "The subscription is $9.99 per month.", "phonemes": "ðə səbskɹˈɪpʃən ɪz nˈIn dˈɑləɹz ænd nˈIndi nˈIn sˈɛnts pɜɹ mˈʌnθ."}
+{"text": "Tickets start at $75 and go up to $300.", "phonemes": "tˈɪkəts stˈɑɹt æt sˈɛvənti fˈIv dˈɑləɹz ænd ɡˌO ˌʌp tə θɹˈi hˈʌndɹəd dˈɑləɹz."}
+{"text": "He owes me $20.", "phonemes": "hˌi ˈOz mˌi twˈɛnti dˈɑləɹz."}
+{"text": "The invoice totaled $87,412.03.", "phonemes": "ði ˈɪnvˌYs tˈOTᵊld ˈATi sˈɛvən θˈWzᵊnd fˈɔɹ hˈʌndɹəd twˈɛlv pYnt zˈɪɹO θɹˈi."}
+{"text": "A gallon of gas hit $3.89.", "phonemes": "ɐ ɡˈælən ʌv ɡˈæs hˈɪt θɹˈi dˈɑləɹz ænd ˈATi nˈIn sˈɛnts."}
+{"text": "The refund was $0.01 short.", "phonemes": "ðə ɹˈifˌʌnd wʌz wˈʌn sˈɛnt ʃˈɔɹt."}
+{"text": "Bids opened at $100 and closed at $1,050.", "phonemes": "bˈɪdz ˈOpᵊnd æt wˈʌn hˈʌndɹəd dˈɑləɹz ænd klˈOzd æt wˈʌn θˈWzᵊnd fˈɪfti dˈɑləɹz."}
+{"text": "The company lost $12 million last quarter.", "phonemes": "ðə kˈʌmpᵊni lˈɔst twˈɛlv mˈɪljᵊn dˈɑləɹz lˈæst kwˈɔɹTəɹ."}
+{"text": "Shipping adds $6.95 to the order.", "phonemes": "ʃˈɪpɪŋ ˈædz sˈɪks dˈɑləɹz ænd nˈIndi fˈIv sˈɛnts tə ði ˈɔɹdəɹ."}
+{"text": "The deposit is $1,000 and is refundable.", "phonemes": "ðə dəpˈɑzət ɪz wˈʌn θˈWzᵊnd dˈɑləɹz ænd ɪz ɹəfˈʌndəbəl."}
+{"text": "She tipped $8 on a $40 meal.", "phonemes": "ʃˌi tˈɪpt ˈAt dˈɑləɹz ˌɔn ɐ fˈɔɹTi dˈɑləɹz mˈil."}
+{"text": "The watch is worth about $2,300.", "phonemes": "ðə wˈɑʧ ɪz wˈɜɹθ əbˈWt tˈu θˈWzᵊnd θɹˈi hˈʌndɹəd dˈɑləɹz."}
+{"text": "Membership costs ¥8,000 annually.", "phonemes": "mˈɛmbəɹʃˌɪp kˈɔsts ˈAt θˈWzᵊnd ˈænjəwəli."}
+{"text": "The rent went up to $1,875 a month.", "phonemes": "ðə ɹˈɛnt wˈɛnt ˌʌp tə wˈʌn θˈWzᵊnd ˈAt hˈʌndɹəd sˈɛvənti fˈIv dˈɑləɹz ɐ mˈʌnθ."}
+{"text": "He sold it for $0.99 just to be rid of it.", "phonemes": "hˌi sˈOld ɪt fɔɹ nˈIndi nˈIn sˈɛnts ʤˈʌst tə bi ɹˈɪd ʌv ɪt."}
+{"text": "The grant provides $250,000 over three years.", "phonemes": "ðə ɡɹˈænt pɹəvˈIdz tˈu hˈʌndɹəd fˈɪfti θˈWzᵊnd dˈɑləɹz ˈOvəɹ θɹˈi jˈɪɹz."}
+{"text": "The total came to $103.47.", "phonemes": "ðə tˈOTᵊl kˈAm tə wˈʌn hˈʌndɹəd θɹˈi dˈɑləɹz ænd fˈɔɹTi sˈɛvən sˈɛnts."}
+{"text": "Prices ranged from $2 to $2,000.", "phonemes": "pɹˈIsᵻz ɹˈAnʤd fɹʌm tˈu dˈɑləɹz tə tˈu θˈWzᵊnd dˈɑləɹz."}
+{"text": "The salary band is $95,000 to $130,000.", "phonemes": "ðə sˈæləɹi bˈænd ɪz nˈIndi fˈIv θˈWzᵊnd dˈɑləɹz tə wˈʌn hˈʌndɹəd θˈɜɹTi θˈWzᵊnd dˈɑləɹz."}
+{"text": "The meeting starts at 3:00 PM.", "phonemes": "ðə mˈiTɪŋ stˈɑɹts æt θɹˈi zˈɪɹO zˈɪɹO pˌiˈɛm."}
+{"text": "Wake me up at 6:30 a.m.", "phonemes": "wˈAk mˌi ˌʌp æt sˈɪks θˈɜɹTi ˌAˈɛm"}
+{"text": "The show begins at 8:45 pm sharp.", "phonemes": "ðə ʃˈO bəɡˈɪnz æt ˈAt fˈɔɹTi fˈIv pˌiˈɛm ʃˈɑɹp."}
+{"text": "It is 12:00 noon.", "phonemes": "ˌɪt ɪz twˈɛlv zˈɪɹO zˈɪɹO nˈun."}
+{"text": "The alarm went off at 4:15 in the morning.", "phonemes": "ði əlˈɑɹm wˈɛnt ˈɔf æt fˈɔɹ fˌɪftˈin ɪn ðə mˈɔɹnɪŋ."}
+{"text": "The train arrives at 17:42.", "phonemes": "ðə tɹˈAn əɹˈIvz æt sˌɛvəntˈin fˈɔɹTi tˈu."}
+{"text": "Doors open at 7 PM.", "phonemes": "dˈɔɹz ˈOpᵊn æt sˈɛvən pˌiˈɛm."}
+{"text": "She called at 11:59 last night.", "phonemes": "ʃˌi kˈɔld æt əlˈɛvᵊn fˈɪfti nˈIn lˈæst nˈIt."}
+{"text": "Lunch is served from 11:30 to 1:30.", "phonemes": "lˈʌnʧ ɪz sˈɜɹvd fɹʌm əlˈɛvᵊn θˈɜɹTi tə wˈʌn θˈɜɹTi."}
+{"text": "The flight lands at 9:05 AM local time.", "phonemes": "ðə flˈIt lˈændz æt nˈIn zˈɪɹO fˈIv ˌAˈɛm lˈOkəl tˈIm."}
+{"text": "Set the timer for 2:30.", "phonemes": "sˈɛt ðə tˈIməɹ fɔɹ tˈu θˈɜɹTi."}
+{"text": "The store closes at 10 pm on weekdays.", "phonemes": "ðə stˈɔɹ klˈOzᵻz æt tˈɛn pˌiˈɛm ˌɔn wˈikdˌAz."}
+{"text": "He runs at 5:00 every morning.", "phonemes": "hˌi ɹˈʌnz æt fˈIv zˈɪɹO zˈɪɹO ˈɛvəɹi mˈɔɹnɪŋ."}
+{"text": "The deadline is midnight, 12:00 AM.", "phonemes": "ðə dˈɛdlˌIn ɪz mˈɪdnˌIt, twˈɛlv zˈɪɹO zˈɪɹO ˌAˈɛm."}
+{"text": "Between 2:15 and 2:45 the line is busiest.", "phonemes": "bətwˈin tˈu fˌɪftˈin ænd tˈu fˈɔɹTi fˈIv ðə lˈIn ɪz bˈɪziᵻst."}
+{"text": "The eclipse peaks at 1:07 PM.", "phonemes": "ði əklˈɪps pˈiks æt wˈʌn zˈɪɹO sˈɛvən pˌiˈɛm."}
+{"text": "It took 1:23:45 to finish the race.", "phonemes": "ˌɪt tˈʊk wˈʌn twˈɛnti θɹˈi fˈɔɹTi fˈIv tə fˈɪnəʃ ðə ɹˈAs."}
+{"text": "The bus comes every 20 minutes after 6:00.", "phonemes": "ðə bˈʌs kˈʌmz ˈɛvəɹi twˈɛnti mˈɪnəts ˈæftəɹ sˈɪks zˈɪɹO zˈɪɹO."}
+{"text": "I woke at 3 in the morning for no reason.", "phonemes": "ˌI wˈOk æt θɹˈi ɪn ðə mˈɔɹnɪŋ fɔɹ nˈO ɹˈizᵊn."}
+{"text": "The call is scheduled for 10:30 EST.", "phonemes": "ðə kˈɔl ɪz skˈɛʤˌuld fɔɹ tˈɛn θˈɜɹTi ˌiˌɛstˈi."}
+{"text": "By 8:00 the parking lot was already full.", "phonemes": "bˌI ˈAt zˈɪɹO zˈɪɹO ðə pˈɑɹkɪŋ lˈɑt wʌz ˌɔlɹˈɛdi fˈʊl."}
+{"text": "The kitchen closes at 9:30 sharp.", "phonemes": "ðə kˈɪʧᵊn klˈOzᵻz æt nˈIn θˈɜɹTi ʃˈɑɹp."}
+{"text": "Class runs from 9:00 to 10:15.", "phonemes": "klˈæs ɹˈʌnz fɹʌm nˈIn zˈɪɹO zˈɪɹO tə tˈɛn fˌɪftˈin."}
+{"text": "The first pitch is at 7:05 PM.", "phonemes": "ðə fˈɜɹst pˈɪʧ ɪz æt sˈɛvən zˈɪɹO fˈIv pˌiˈɛm."}
+{"text": "She left the office at 6:47 and got home at 7:33.", "phonemes": "ʃˌi lˈɛft ði ˈɔfəs æt sˈɪks fˈɔɹTi sˈɛvən ænd ɡɑt hˈOm æt sˈɛvən θˈɜɹTi θɹˈi."}
+{"text": "Dr. Smith will see you now.", "phonemes": "dˈɑktəɹ smˈɪθ wɪl sˈi ju nˈW."}
+{"text": "Mr. and Mrs. Johnson sent a card.", "phonemes": "mˈɪstəɹ ænd mˈɪsɪz ʤˈɑnsᵊn sˈɛnt ɐ kˈɑɹd."}
+{"text": "Prof. Anderson teaches Ph.D. seminars.", "phonemes": "pɹˈɑf ˈændəɹsᵊn tˈiʧᵻz pˌiˌAʧdˈi sˈɛmənˌɑɹz."}
+{"text": "St. Louis is on the Mississippi.", "phonemes": " lˈui ɪz ˌɔn ðə mˌɪsəsˈɪpi."}
+{"text": "The company is on Elm St. near the park.", "phonemes": "ðə kˈʌmpᵊni ɪz ˌɔn ˈɛlm  nˌɪɹ ðə pˈɑɹk."}
+{"text": "Send it to 42 Oak Ave., Apt. 3B.", "phonemes": "sˈɛnd ɪt tə fˈɔɹTi tˈu ˈOk ˈɑvˌA, ˈæpt. θɹˈi bˈi"}
+{"text": "Mt. Rainier is visible on clear days.", "phonemes": " ɹˈAniəɹ ɪz vˈɪzəbᵊl ˌɔn klˈɪɹ dˈAz."}
+{"text": "The U.S. and the U.K. signed the accord.", "phonemes": "ðə jˌuˈɛs ænd ðə jˌukˈA sˈInd ði əkˈɔɹd."}
+{"text": "etc., etc., and so forth.", "phonemes": "ɛtsˈɛTəɹə, ɛtsˈɛTəɹə, ænd sˌO fˈɔɹθ."}
+{"text": "See Fig. 3 for the layout.", "phonemes": "sˈi fˈɪɡ. θɹˈi fɔɹ ðə lˈAˌWt."}
+{"text": "e.g., apples, oranges, and pears.", "phonemes": "ˌiʤˈi, ˈæpᵊlz, ˈɔɹᵊnʤᵻz, ænd pˈɛɹz."}
+{"text": "i.e., the second option.", "phonemes": "ˌIˈi, ðə sˈɛkənd ˈɑpʃən."}
+{"text": "vs. the alternative approach.", "phonemes": "vˈɜɹsəs ði ɔltˈɜɹnəTɪv əpɹˈOʧ."}
+{"text": "Approx. 40 people attended.", "phonemes": ". fˈɔɹTi pˈipᵊl ətˈɛndᵻd."}
+{"text": "The dept. head approved the request.", "phonemes": "ðə . hˈɛd əpɹˈuvd ðə ɹəkwˈɛst."}
+{"text": "Rev. Martin gave the sermon.", "phonemes": "ɹˈɛv mˈɑɹtᵊn ɡˈAv ðə sˈɜɹmən."}
+{"text": "Sgt. Baker filed the report.", "phonemes": ". bˈAkəɹ fˈIld ðə ɹəpˈɔɹt."}
+{"text": "Gov. Reed signed the bill.", "phonemes": " ɹˈid sˈInd ðə bˈɪl."}
+{"text": "Jan., Feb., and Mar. were unusually warm.", "phonemes": ", , ænd mˈɑɹ wɜɹ ˌʌnjˈuʒəwəli wˈɔɹm."}
+{"text": "The min. and max. values differ.", "phonemes": "ðə mˈɪn ænd mˈæks vˈæljuz dˈɪfəɹ."}
+{"text": "Ltd. and Inc. mean different things.", "phonemes": " ænd  mˈin dˈɪfəɹənt θˈɪŋz."}
+{"text": "Wed. is the only day that works.", "phonemes": "wˈɛd ɪz ði ˈOnli dˈA ðæt wˈɜɹks."}
+{"text": "The Corp. filed for bankruptcy.", "phonemes": "ðə kˈɔɹp fˈIld fɔɹ bˈæŋkɹəptsi."}
+{"text": "No. 5 on the list is missing.", "phonemes": "nˈʌmbəɹ fˈIv ˌɔn ðə lˈɪst ɪz mˈɪsɪŋ."}
+{"text": "Ms. Patel chairs the committee.", "phonemes": "mˈɪz  ʧˈɛɹz ðə kəmˈɪTi."}
+{"text": "Sr. and Jr. share the same first name.", "phonemes": " ænd  ʃˈɛɹ ðə sˈAm fˈɜɹst nˈAm."}
+{"text": "The est. cost is under budget.", "phonemes": "ði ˈɛst. kˈɔst ɪz ˈʌndəɹ bˈʌʤət."}
+{"text": "Vol. 2 covers the later period.", "phonemes": " tˈu kˈʌvəɹz ðə lˈATəɹ pˈɪɹiəd."}
+{"text": "The Hon. Judge Ellis presided.", "phonemes": "ðə hˈʌn. ʤˈʌʤ  pɹəzˈIdᵻd."}
+{"text": "Please RSVP to the addr. below.", "phonemes": "plˈiz ˌɑɹˌɛsvˌipˈi tə ðə . bəlˈO."}
+{"text": "I read a book yesterday.", "phonemes": "ˌI ɹˈɛd ɐ bˈʊk jˈɛstəɹdˌA."}
+{"text": "Please read this carefully.", "phonemes": "plˈiz ɹˈid ðɪs kˈɛɹfᵊli."}
+{"text": "She has read all of his novels.", "phonemes": "ʃˌi hæz ɹˈɛd ˈɔl ʌv hɪz nˈɑvᵊlz."}
+{"text": "He will read the report tonight.", "phonemes": "hˌi wɪl ɹˈid ðə ɹəpˈɔɹt tənˈIt."}
+{"text": "Lead pipes were common in old houses.", "phonemes": "lˈid pˈIps wɜɹ kˈɑmən ɪn ˈOld hˈWsᵻz."}
+{"text": "You lead and I will follow.", "phonemes": "jˌu lˈid ænd ˌI wɪl fˈɑlO."}
+{"text": "The lead singer left the band.", "phonemes": "ðə lˈid sˈɪŋəɹ lˈɛft ðə bˈænd."}
+{"text": "They lead the league in turnovers.", "phonemes": "ðˌA lˈid ðə lˈiɡ ɪn tˈɜɹnˌOvəɹz."}
+{"text": "The bass guitar was too loud.", "phonemes": "ðə bˈæs ɡətˈɑɹ wʌz tˈu lˈWd."}
+{"text": "He caught a large bass in the lake.", "phonemes": "hˌi kˈɔt ɐ lˈɑɹʤ bˈæs ɪn ðə lˈAk."}
+{"text": "The bass line drives the whole song.", "phonemes": "ðə bˈæs lˈIn dɹˈIvz ðə hˈOl sˈɔŋ."}
+{"text": "Wind the clock before bed.", "phonemes": "wˈInd ðə klˈɑk bəfˈɔɹ bˈɛd."}
+{"text": "The wind knocked over the trash cans.", "phonemes": "ðə wˈɪnd nˈɑkt ˈOvəɹ ðə tɹˈæʃ kˈænz."}
+{"text": "A cold wind blew through the alley.", "phonemes": "ɐ kˈOld wˈɪnd blˈu θɹu ði ˈæli."}
+{"text": "The road winds up the hillside.", "phonemes": "ðə ɹˈOd wˈIndz ˌʌp ðə hˈɪlsˌId."}
+{"text": "Close the door and stand close to me.", "phonemes": "klˈOz ðə dˈɔɹ ænd stˈænd klˈOs tə mˌi."}
+{"text": "They live in a live broadcast studio.", "phonemes": "ðˌA lˈɪv ɪn ɐ lˈIv bɹˈɔdkˌæst stˈudiO."}
+{"text": "The live wire was still live.", "phonemes": "ðə lˈIv wˈIəɹ wʌz stˈɪl lˈIv."}
+{"text": "Do not object to the object on the table.", "phonemes": "dˈu nˌɑt əbʤˈɛkt tə ði ˈɑbʤəkt ˌɔn ðə tˈAbᵊl."}
+{"text": "The suspect was asked to present a present.", "phonemes": "ðə sˈʌspˌɛkt wʌz ˈæskt tə pɹizˈɛnt ɐ pɹˈɛzᵊnt."}
+{"text": "He will present the present tomorrow.", "phonemes": "hˌi wɪl pɹizˈɛnt ðə pɹˈɛzᵊnt təmˈɑɹO."}
+{"text": "The desert nomads did not desert their camp.", "phonemes": "ðə dˈɛzəɹt nˈOmˌædz dˈɪd nˌɑt dəzˈɜɹt ðɛɹ kˈæmp."}
+{"text": "The soldier could not desert in the desert.", "phonemes": "ðə sˈOlʤəɹ kʊd nˌɑt dəzˈɜɹt ɪn ðə dˈɛzəɹt."}
+{"text": "I object, your honor.", "phonemes": "ˌI əbʤˈɛkt, jʊɹ ˈɑnəɹ."}
+{"text": "The contract will contract under heat.", "phonemes": "ðə kˈɑntɹˌækt wɪl kəntɹˈækt ˈʌndəɹ hˈit."}
+{"text": "They refuse to collect the refuse.", "phonemes": "ðˌA ɹəfjˈuz tə kəlˈɛkt ðə ɹˈɛfjˌus."}
+{"text": "The dove dove into the bushes.", "phonemes": "ðə dˈʌv dˈOv ˈɪntu ðə bˈʊʃᵻz."}
+{"text": "The bandage was wound around the wound.", "phonemes": "ðə bˈændɪʤ wʌz wˈWnd əɹˈWnd ðə wˈund."}
+{"text": "He had to subject the subject to more tests.", "phonemes": "hˌi hæd tə səbʤˈɛkt ðə sˈʌbʤɛkt tə mˈɔɹ tˈɛsts."}
+{"text": "The farm was used to produce produce.", "phonemes": "ðə fˈɑɹm wʌz jˈuzd tə pɹədˈus pɹˈOdˌus."}
+{"text": "The insurance was invalid for the invalid.", "phonemes": "ði ɪnʃˈʊɹəns wʌz ɪnvˈælɪd fɔɹ ði ˈɪnvəlɪd."}
+{"text": "There is no time like the present to present your case.", "phonemes": "ðˌɛɹ ɪz nˈO tˈIm lˈIk ðə pɹˈɛzᵊnt tə pɹizˈɛnt jʊɹ kˈAs."}
+{"text": "A minute amount of dust took a minute to settle.", "phonemes": "ɐ mˈɪnət əmˈWnt ʌv dˈʌst tˈʊk ɐ mˈɪnət tə sˈɛTᵊl."}
+{"text": "The buck does funny things when the does are present.", "phonemes": "ðə bˈʌk dˈʌz fˈʌni θˈɪŋz wˌɛn ðə dˈʌz ɑɹ pɹˈɛzᵊnt."}
+{"text": "The tear in her eye came from the tear in the paper.", "phonemes": "ðə tˈɪɹ ɪn hɜɹ ˈI kˈAm fɹʌm ðə tˈɪɹ ɪn ðə pˈApəɹ."}
+{"text": "He moped around after his moped broke down.", "phonemes": "hˌi mˈOpt əɹˈWnd ˈæftəɹ hɪz mˈOpˌɛd bɹˈOk dˌWn."}
+{"text": "She would sow seeds while the sow slept.", "phonemes": "ʃˌi wʊd sˈO sˈidz wˌIl ðə sˈW slˈɛpt."}
+{"text": "The number of patients grew number as the anesthetic spread.", "phonemes": "ðə nˈʌmbəɹ ʌv pˈAʃənts ɡɹˈu nˈʌmbəɹ æz ði ˌænəsθˈɛTɪk spɹˈɛd."}
+{"text": "Polish the Polish silverware.", "phonemes": "pˈOlɪʃ ðə pˈOlɪʃ sˈɪlvəɹwˌɛɹ."}
+{"text": "I did not intend to intimate this so intimate a detail.", "phonemes": "ˌI dˈɪd nˌɑt ɪntˈɛnd tʊ ˈɪntəmˌAt ðɪs sˌO ˈɪntəmət ɐ dətˈAl."}
+{"text": "The entrance did not entrance her.", "phonemes": "ði ˈɛntɹəns dˈɪd nˌɑt ɪntɹˈæns hˌɜɹ."}
+{"text": "They were too close to the door to close it.", "phonemes": "ðˌA wɜɹ tˈu klˈOs tə ðə dˈɔɹ tə klˈOz ɪt."}
+{"text": "Wound tightly, the spring finally sprang.", "phonemes": "wˈund tˈItli, ðə spɹˈɪŋ fˈInᵊli spɹˈæŋ."}
+{"text": "The bow of the ship dipped as she took a bow.", "phonemes": "ðə bˈO ʌv ðə ʃˈɪp dˈɪpt æz ʃi tˈʊk ɐ bˈO."}
+{"text": "He tied a bow and drew his bow.", "phonemes": "hˌi tˈId ɐ bˈO ænd dɹˈu hɪz bˈO."}
+{"text": "The row of seats caused a row.", "phonemes": "ðə ɹˈO ʌv sˈits kˈɔzd ɐ ɹˈO."}
+{"text": "She shed a tear over the torn tear.", "phonemes": "ʃˌi ʃˈɛd ɐ tˈɪɹ ˈOvəɹ ðə tˈɔɹn tˈɪɹ."}
+{"text": "The dump was so full it had to refuse more refuse.", "phonemes": "ðə dˈʌmp wʌz sˌO fˈʊl ɪt hæd tə ɹəfjˈuz mˈɔɹ ɹˈɛfjˌus."}
+{"text": "Upon seeing the tear in the painting I shed a tear.", "phonemes": "əpˈɑn sˈiɪŋ ðə tˈɪɹ ɪn ðə pˈAntɪŋ ˌI ʃˈɛd ɐ tˈɪɹ."}
+{"text": "The record will record the whole session.", "phonemes": "ðə ɹˈɛkəɹd wɪl ɹəkˈɔɹd ðə hˈOl sˈɛʃən."}
+{"text": "They rebel against the rebel leader.", "phonemes": "ðˌA ɹəbˈɛl əɡˈɛnst ðə ɹˈɛbᵊl lˈidəɹ."}
+{"text": "He can conduct himself well and conduct the orchestra.", "phonemes": "hˌi kæn kəndˈʌkt hɪmsˈɛlf wˈɛl ænd kəndˈʌkt ði ˈɔɹkəstɹə."}
+{"text": "The permit does not permit parking here.", "phonemes": "ðə pˈɜɹmɪt dˈʌz nˌɑt pəɹmˈɪt pˈɑɹkɪŋ hˈɪɹ."}
+{"text": "The convict tried to convict his accuser.", "phonemes": "ðə kˈɑnvˌɪkt tɹˈId tə kənvˈɪkt hɪz əkjˈuzəɹ."}
+{"text": "Visit https://example.com for details.", "phonemes": "vˈɪzət slˌæʃ slˌæʃ ɪɡzˈæmpəl dˌɑt kˈɑm fɔɹ dətˈAlz."}
+{"text": "Go to www.github.com/hexgrad/misaki to read the source.", "phonemes": "ɡˌO tə kˈɑm tə ɹˈid ðə sˈɔɹs."}
+{"text": "Email me at hello@example.org.", "phonemes": "ˈimˌAl mˌi æt həlˈO æt ɪɡzˈæmpəl ˈɔɹɡ."}
+{"text": "The endpoint is http://127.0.0.1:8471/v1/audio/speech.", "phonemes": "ði ˈɛndpYnt ɪz wˈʌn tˈu sˈɛvən zˈɪɹO zˈɪɹO wˈʌn ˈATi fˈɔɹ sˈɛvənti wˈʌn vˈi wˈʌn ˈɔdiO spˈiʧ."}
+{"text": "Docs live at https://docs.rs/ort/latest/ort/.", "phonemes": "dˈɑks lˈɪv æt dˈɑks ˈɔɹt lˈATᵻst ˈɔɹt"}
+{"text": "See https://en.wikipedia.org/wiki/Phoneme for background.", "phonemes": "sˈi ˈɛn ˈɔɹɡ wˈɪki fˈOnˌim fɔɹ bˈækɡɹˌWnd."}
+{"text": "Download from https://github.com/thewh1teagle/kokoro-onnx/releases.", "phonemes": "dˈWnlˌOd fɹʌm kˈɑm wˈʌn ɹəlˈisᵻz."}
+{"text": "The file is at /usr/local/share/models/kokoro-v1.0.onnx.", "phonemes": "ðə fˈIl ɪz æt lˈOkəl ʃˈɛɹ mˈɑdᵊlz vˈi wˈʌn zˈɪɹO."}
+{"text": "Open C:\\Users\\Public\\Documents\\notes.txt on Windows.", "phonemes": "ˈOpᵊn sˈi jˈuzəɹz pˈʌblɪk dˈɑkjəmənts nˈOts ˌɔn wˈɪndOz."}
+{"text": "Check example.co.uk/support?ticket=1234.", "phonemes": "ʧˈɛk ɪɡzˈæmpəl sˌiˌOjˌukˈA səpˈɔɹt tˈɪkət twˈɛlv θˈɜɹTi fˈɔɹ."}
+{"text": "The API key goes in the X-Api-Key header.", "phonemes": "ði ˌApˌiˈI kˈi ɡˈOz ɪn ði ˈɛkskˌi hˈɛdəɹ."}
+{"text": "Try curl -X POST http://localhost:3000/api/v1/tts.", "phonemes": "tɹˈI kˈɜɹl ˈɛks pˈOst θɹˈi θˈWzᵊnd vˈi wˈʌn."}
+{"text": "Follow @someone on the site formerly known as Twitter.", "phonemes": "fˈɑlO æt sˈʌmwˌʌn ˌɔn ðə sˈIt fˈɔɹməɹli nˈOn æz twˈɪTəɹ."}
+{"text": "The repo is github.com/rust-lang/rust.", "phonemes": "ðə ɹˈipˌO ɪz kˈɑm ɹˈʌst ɹˈʌst."}
+{"text": "Her handle is user_name_42.", "phonemes": "hˌɜɹ hˈændəl ɪz jˈuzəɹ nˈAm fˈɔɹTi tˈu."}
+{"text": "The path ./temp/goldens/en_golden.jsonl holds the corpus.", "phonemes": "ðə pˈæθ .tˈɛmp ɡˈOldənz ˈɛn ɡˈOldən hˈOldz ðə kˈɔɹpəs."}
+{"text": "Ping 8.8.8.8 to test connectivity.", "phonemes": "pˈɪŋ ˈAt ˈAt ˈAt ˈAt tə tˈɛst kənˌɛktˈɪvəTi."}
+{"text": "The subnet is 192.168.1.0/24.", "phonemes": "ði  ɪz wˈʌn nˈIn tˈu wˈʌn sˈɪks ˈAt wˈʌn zˈɪɹO twˈɛnti fˈɔɹ."}
+{"text": "Send mail to support@company.io or sales@company.io.", "phonemes": "sˈɛnd mˈAl tə səpˈɔɹt æt kˈʌmpᵊni ˈIˌO ɔɹ sˈAlz æt kˈʌmpᵊni ˈIˌO."}
+{"text": "Read more at https://blog.example.net/2024/03/a-long-post-title.", "phonemes": "ɹˈid mˈɔɹ æt blˈɑɡ ɪɡzˈæmpəl nˈɛt twˈɛnti twˈɛnti fˈɔɹ zˈɪɹO θɹˈi ˈA lˈɔŋ pˈOst tˈITᵊl."}
+{"text": "The image lives at assets/img/logo-2x.png.", "phonemes": "ði ˈɪmɪʤ lˈɪvz æt ˈæsˌɛts lˈOɡO tˈu ˈɛks."}
+{"text": "Use ssh user@10.0.0.7 -p 2222.", "phonemes": "jˈuz  jˈuzəɹ æt tˈɛn zˈɪɹO zˈɪɹO sˈɛvən pˈi twˈɛnti tˈu twˈɛnti tˈu."}
+{"text": "The mirror is at ftp://ftp.example.edu/pub/.", "phonemes": "ðə mˈɪɹəɹ ɪz æt ɪɡzˈæmpəl pˈʌb"}
+{"text": "Search for it on duckduckgo.com.", "phonemes": "sˈɜɹʧ fɔɹ ɪt ˌɔn dˌɑtkˌɑm."}
+{"text": "The manifest is filesDir/models/manifest.json.", "phonemes": "ðə mˈænəfˌɛst ɪz fˈIlz mˈɑdᵊlz mˈænəfˌɛst."}
+{"text": "NASA launched the probe last night.", "phonemes": "nˈæsə lˈɔnʧt ðə pɹˈOb lˈæst nˈIt."}
+{"text": "The FBI and the CIA disagreed.", "phonemes": "ði ˌɛfbˌiˈI ænd ðə sˌiˌIˈA dˌɪsəɡɹˈid."}
+{"text": "He works for the IRS.", "phonemes": "hˌi wˈɜɹks fɔɹ ði ˌIˌɑɹˈɛs."}
+{"text": "She has a PhD in EE from MIT.", "phonemes": "ʃˌi hæz ɐ dˈi ɪn ˌiˈi fɹʌm ˌɛmˌItˈi."}
+{"text": "The HTML and CSS were both invalid.", "phonemes": "ði ˌAʧtˌiˌɛmˈɛl ænd sˌiˌɛsˈɛs wɜɹ bˈOθ ɪnvˈælɪd."}
+{"text": "Send the PDF as an attachment.", "phonemes": "sˈɛnd ðə pˌidˌiˈɛf æz ɐn ətˈæʧmənt."}
+{"text": "The GPU ran out of VRAM.", "phonemes": "ðə ʤˌipˌijˈu ɹˈæn ˈWt ʌv vˈiɹˌæm."}
+{"text": "TTS stands for text to speech.", "phonemes": "tˌitˌiˈɛs stˈændz fɔɹ tˈɛkst tə spˈiʧ."}
+{"text": "The ONNX model uses an LSTM layer.", "phonemes": "ði ˌOˌɛnˌɛnˈɛks mˈɑdᵊl jˈuzᵻz ɐn ˌɛlˌɛstˌiˈɛm lˈAəɹ."}
+{"text": "ASAP means as soon as possible.", "phonemes": "ˈAsæp mˈinz æz sˈun æz pˈɑsəbᵊl."}
+{"text": "The DVD player still works.", "phonemes": "ðə dˌivˌidˈi plˈAəɹ stˈɪl wˈɜɹks."}
+{"text": "He bought an SUV and an RV.", "phonemes": "hˌi bˈɔt ɐn ˌɛsjˌuvˈi ænd ɐn ˌɑɹvˈi."}
+{"text": "The CEO and the CFO both resigned.", "phonemes": "ðə sˌiˌiˈO ænd ðə sˌiˌɛfˈO bˈOθ ɹəzˈInd."}
+{"text": "Check the FAQ before filing a bug.", "phonemes": "ʧˈɛk ði ˌɛfˌAkjˈu bəfˈɔɹ fˈIlɪŋ ɐ bˈʌɡ."}
+{"text": "The USB-C cable is missing.", "phonemes": "ðə jˌuˌɛsbˈisˌi kˈAbᵊl ɪz mˈɪsɪŋ."}
+{"text": "We use HTTPS with TLS 1.3.", "phonemes": "wˌi jˈuz ˌAʧtˌitˌipˌiˈɛs wɪð tˌiˌɛlˈɛs wˈʌn pYnt θɹˈi."}
+{"text": "The UN and NATO issued statements.", "phonemes": "ðə jˌuˈɛn ænd nˈATO ˈɪʃjud stˈAtmənts."}
+{"text": "My SSD failed but the HDD survived.", "phonemes": "mˌI ˌɛsˌɛsdˈi fˈAld bˌʌt ði ˌAʧdˌidˈi səɹvˈIvd."}
+{"text": "The DNA test came back inconclusive.", "phonemes": "ðə dˌiˌɛnˈA tˈɛst kˈAm bˈæk ˌɪnkənklˈusɪv."}
+{"text": "The BBC and NPR covered the story.", "phonemes": "ðə bˌibˌisˈi ænd ˌɛnpˌiˈɑɹ kˈʌvəɹd ðə stˈɔɹi."}
+{"text": "An API returns JSON or XML.", "phonemes": "ɐn ˌApˌiˈI ɹətˈɜɹnz ʤˌAˌɛsˌOˈɛn ɔɹ ˌɛksˌɛmˈɛl."}
+{"text": "The FDA approved the drug.", "phonemes": "ði ˌɛfdˌiˈA əpɹˈuvd ðə dɹˈʌɡ."}
+{"text": "GDP growth slowed in Q3.", "phonemes": "ʤˌidˌipˈi ɡɹˈOθ slˈOd ɪn kjˈu θɹˈi."}
+{"text": "The ATM was out of cash.", "phonemes": "ði ˌAtˌiˈɛm wʌz ˈWt ʌv kˈæʃ."}
+{"text": "LED bulbs use less power than CFL bulbs.", "phonemes": "lˈɛd bˈʌlbz jˈuz lˈɛs pˈWəɹ ðən sˌiˌɛfˈɛl bˈʌlbz."}
+{"text": "Kokoro synthesizes speech on device.", "phonemes": " sˈɪnθəsˌIzᵻz spˈiʧ ˌɔn dəvˈIs."}
+{"text": "The misaki lexicon is Apache licensed.", "phonemes": "ðə  lˈɛksəkˌɑn ɪz əpˈæʧi lˈIsᵊnst."}
+{"text": "Zyxwyn Qorbalath signed the ledger.", "phonemes": "  sˈInd ðə lˈɛʤəɹ."}
+{"text": "She lives in Ouagadougou.", "phonemes": "ʃˌi lˈɪvz ɪn wˌɑɡədˈuɡu."}
+{"text": "The Kyrgyzstani delegation arrived late.", "phonemes": "ðə  dˌɛləɡˈAʃən əɹˈIvd lˈAt."}
+{"text": "Xochimilco is south of Mexico City.", "phonemes": " ɪz sˈWθ ʌv mˈɛksəkO sˈɪTi."}
+{"text": "He ordered mulligatawny and papadum.", "phonemes": "hˌi ˈɔɹdəɹd mˌʌləɡətˈɔni ænd ."}
+{"text": "Tsukemono goes well with rice.", "phonemes": "tsˌukimˈOnO ɡˈOz wˈɛl wɪð ɹˈIs."}
+{"text": "The phlebotomist drew four vials.", "phonemes": "ðə fləbˈɑTəmɪst dɹˈu fˈɔɹ vˈIᵊlz."}
+{"text": "Antidisestablishmentarianism is rarely useful.", "phonemes": "ˌæntidˌɪsəstˌæblɪʃməntˈɛɹiənˌɪzəm ɪz ɹˈɛɹli jˈusfᵊl."}
+{"text": "Pneumonoultramicroscopicsilicovolcanoconiosis is a lung disease.", "phonemes": "nˌumənOˌʌltɹəmˌIkɹəskˌɑpɪksˌɪləkOvɑlkˌAnOkˌOniˈOsɪs ɪz ɐ lˈʌŋ dəzˈiz."}
+{"text": "The schadenfreude was palpable.", "phonemes": "ðə ʃˈɑdənfɹˌYdə wʌz pˈælpəbᵊl."}
+{"text": "Bjarne Stroustrup created C++.", "phonemes": "  kɹiˈATᵻd sˈi plˈʌs plˈʌs."}
+{"text": "Guido van Rossum named it after Monty Python.", "phonemes": "ɡwˈidO vˈæn  nˈAmd ɪt ˈæftəɹ  pˈIθˌɑn."}
+{"text": "The Nguyen family moved to Wrocław.", "phonemes": "ðə  fˈæmᵊli mˈuvd tu ."}
+{"text": "Sriracha and gochujang are both spicy.", "phonemes": "səɹˈɑʧə ænd kˈOʧuʤˌɑŋ ɑɹ bˈOθ spˈIsi."}
+{"text": "The chihuahua barked at the dachshund.", "phonemes": "ðə ʧəwˈɑwə bˈɑɹkt æt ðə dˈɑkshˌʊnt."}
+{"text": "Worcestershire sauce is hard to spell.", "phonemes": "wˈʊstəɹʃˌɪɹ sˈɔs ɪz hˈɑɹd tə spˈɛl."}
+{"text": "They visited Reykjavik and Akureyri.", "phonemes": "ðˌA vˈɪzɪTᵻd ɹˈAkjəvˌɪk ænd ."}
+{"text": "The quokka is a marsupial.", "phonemes": "ðə kwˈɑkə ɪz ɐ mɑɹsˈupiəl."}
+{"text": "Blorptastic is not a real word.", "phonemes": " ɪz nˌɑt ɐ ɹˈiᵊl wˈɜɹd."}
+{"text": "Flumoxinate the widget before rebooting.", "phonemes": " ðə wˈɪʤət bəfˈɔɹ ɹˌibˈuTɪŋ."}
+{"text": "The frobnicator needs recalibration.", "phonemes": "ðə  nˈidz ."}
+{"text": "Gronkulous behavior was observed.", "phonemes": " bəhˈAvjəɹ wʌz əbzˈɜɹvd."}
+{"text": "The zarblatt indicator turned red.", "phonemes": "ði  ˈɪndəkˌATəɹ tˈɜɹnd ɹˈɛd."}
+{"text": "Chthonic deities feature in the myth.", "phonemes": "θˈɑnɪk dˈiəTiz fˈiʧəɹ ɪn ðə mˈɪθ."}
+{"text": "The rendezvous happened at the cafe.", "phonemes": "ðə ɹˈɑndəvˌu hˈæpənd æt ðə kæfˈA."}
+{"text": "Colonel Mustard was in the library.", "phonemes": "kˈɜɹnᵊl mˈʌstəɹd wʌz ɪn ðə lˈIbɹˌɛɹi."}
+{"text": "She studied at Sault Sainte Marie.", "phonemes": "ʃˌi stˈʌdid æt sˈɔlt  ."}
+{"text": "The isthmus connects the two landmasses.", "phonemes": "ði ˈɪsθməs kənˈɛkts ðə tˈu lˈændmæsᵻz."}
+{"text": "Quinoa and couscous are both grains.", "phonemes": "kˈinwˌɑ ænd kˈuskˌus ɑɹ bˈOθ ɡɹˈAnz."}
+{"text": "The maitre d' seated us immediately.", "phonemes": "ðə  dˈi” sˈiTᵻd ˌʌs ɪmˈidiətli."}
+{"text": "Onomatopoeia is fun to say.", "phonemes": "ˌɑnəmˌɑTəpˈiə ɪz fˈʌn tə sˈA."}
+{"text": "Sesquipedalian words plague this corpus.", "phonemes": "sˌɛskwəpədˈAljən wˈɜɹdz plˈAɡ ðɪs kˈɔɹpəs."}
+{"text": "The archaeopteryx fossil was well preserved.", "phonemes": "ði ˌɑɹkiˈɑptəɹɪks fˈɑsᵊl wʌz wˈɛl pɹəzˈɜɹvd."}
+{"text": "Don't you think it's a bit much?", "phonemes": "dˈOnt ju θˈɪŋk ɪts ɐ bˈɪt mˈʌʧ?"}
+{"text": "It's the dog's bowl, not the cat's.", "phonemes": "ˌɪts ðə dˈɔɡz bˈOl, nˌɑt ðə kˈæts."}
+{"text": "We're going, they're staying, and I'm undecided.", "phonemes": "wˌɪɹ ɡˈOɪŋ, ðɛɹ stˈAɪŋ, ænd ˌIm ˌʌndəsˈIdᵻd."}
+{"text": "He said, \"Wait here,\" and walked off.", "phonemes": "hˌi sˈɛd, “wˈAt hˈɪɹ,” ænd wˈɔkt ˈɔf."}
+{"text": "Well... that was unexpected.", "phonemes": "wˈɛl... ðˈæt wʌz ˌʌnəkspˈɛktᵻd."}
+{"text": "Stop! Do not touch that!", "phonemes": "stˈɑp! dˈu nˌɑt tˈʌʧ ðˈæt!"}
+{"text": "Really? You believe that?", "phonemes": "ɹˈiᵊli? jˌu bəlˈiv ðˈæt?"}
+{"text": "The plan, such as it was, failed.", "phonemes": "ðə plˈæn, sˈʌʧ æz ɪt wʌz, fˈAld."}
+{"text": "She'll never admit it; he won't either.", "phonemes": "ʃˌil nˈɛvəɹ ədmˈɪt ɪt; hi wOnt ˈiðəɹ."}
+{"text": "You've got mail -- again.", "phonemes": "jˌuv ɡɑt mˈAl  əɡˈɛn."}
+{"text": "It was (mostly) a success.", "phonemes": "ˌɪt wʌz (mˈOstli) ɐ səksˈɛs."}
+{"text": "The list: eggs, bread, and milk.", "phonemes": "ðə lˈɪst: ˈɛɡz, bɹˈɛd, ænd mˈɪlk."}
+{"text": "“This is a quotation,” she said.", "phonemes": "“ðˌɪs ɪz ɐ kwˌOtˈAʃən,” ʃi sˈɛd."}
+{"text": "Who's on first? What's on second.", "phonemes": "hˌuz ˌɔn fˈɜɹst? wˌʌts ˌɔn sˈɛkənd."}
+{"text": "I'd have gone if I'd known.", "phonemes": "ˌId hæv ɡɔn ɪf ˌId nˈOn."}
+{"text": "That's Charles's book, not James's.", "phonemes": "ðˈæts ʧˈɑɹlzᵻz bˈʊk, nˌɑt ʤˈAmzᵻz."}
+{"text": "They couldn't've known.", "phonemes": "ðˌA kˌʊdᵊnt nˈOn."}
+{"text": "Isn't it odd that it's so quiet?", "phonemes": "ˈɪzᵊnt ɪt ˈɑd ðæt ɪts sˌO kwˈIət?"}
+{"text": "Half-baked ideas rarely survive peer-review.", "phonemes": "hˌæfbˈAkt Idˈiəz ɹˈɛɹli səɹvˈIv pˌɪɹɹəvjˈu."}
+{"text": "The so-called expert had no idea.", "phonemes": "ðə sˌOkˈɔld ˈɛkspˌɜɹt hæd nˈO Idˈiə."}
+{"text": "Emails, texts, calls -- nothing worked.", "phonemes": "ˈimˌAlz, tˈɛksts, kˈɔlz  nˈʌθɪŋ wˈɜɹkt."}
+{"text": "Yes; however, there is a catch.", "phonemes": "jˈɛs; hWˈɛvəɹ, ðɛɹ ɪz ɐ kˈɛʧ."}
+{"text": "He asked \"why?\" and got no answer.", "phonemes": "hˌi ˈæskt “wˌI?” ænd ɡɑt nˈO ˈænsəɹ."}
+{"text": "It's 100% certain, more or less.", "phonemes": "ˌɪts wˈʌn hˈʌndɹəd pəɹsˈɛnt sˈɜɹtn, mˈɔɹ ɔɹ lˈɛs."}
+{"text": "The cat -- an orange tabby -- knocked it over.", "phonemes": "ðə kˈæt  ɐn ˈɔɹᵊnʤ tˈæbi  nˈɑkt ɪt ˈOvəɹ."}
+{"text": "The meeting started at 9:15 AM and ran until 11:30. We reviewed the Q3 numbers, which showed a 14% increase over Q2. Dr. Ramirez presented the findings, and Mr. Chen raised concerns about the $2.4 million shortfall in the marketing budget.", "phonemes": "ðə mˈiTɪŋ stˈɑɹTᵻd æt nˈIn fˌɪftˈin ˌAˈɛm ænd ɹˈæn ˌʌntˈɪl əlˈɛvᵊn θˈɜɹTi. wˌi ɹəvjˈud ðə kjˈu θɹˈi nˈʌmbəɹz, wˌɪʧ ʃˈOd ɐ fˌɔɹtˈin pəɹsˈɛnt ˈɪnkɹˌis ˈOvəɹ kjˈu tˈu. dˈɑktəɹ  pɹizˈɛntᵻd ðə fˈIndɪŋz, ænd mˈɪstəɹ  ɹˈAzd kənsˈɜɹnz əbˈWt ðə tˈu pYnt fˈɔɹ mˈɪljᵊn dˈɑləɹz ʃˈɔɹtfˌɔl ɪn ðə mˈɑɹkəTɪŋ bˈʌʤət."}
+{"text": "In 1969, Neil Armstrong stepped onto the lunar surface. The broadcast reached roughly 600 million people. NASA had spent about $25 billion on the Apollo program, which in 2024 dollars is closer to $200 billion.", "phonemes": "ɪn nˌIntˈin sˈɪksti nˈIn,   stˈɛpt ˈɑntˌu ðə lˈunəɹ sˈɜɹfəs. ðə bɹˈɔdkˌæst ɹˈiʧt ɹˈʌfli sˈɪks hˈʌndɹəd mˈɪljᵊn pˈipᵊl. nˈæsə hæd spˈɛnt əbˈWt twˈɛnti fˈIv bˈɪljən dˈɑləɹz ˌɔn ði əpˈɑlO pɹˈOɡɹˌæm, wˌɪʧ ɪn twˈɛnti twˈɛnti fˈɔɹ dˈɑləɹz ɪz klˈOsəɹ tə tˈu hˈʌndɹəd bˈɪljən dˈɑləɹz."}
+{"text": "She read the letter twice before folding it. The wind picked up outside, rattling the storm windows. He would read it too, eventually, but not tonight.", "phonemes": "ʃˌi ɹˈɛd ðə lˈɛTəɹ twˈIs bəfˈɔɹ fˈOldɪŋ ɪt. ðə wˈɪnd pˈɪkt ˌʌp ˌWtsˈId, ɹˈæTəlɪŋ ðə stˈɔɹm wˈɪndOz. hˌi wʊd ɹˈid ɪt tˈu, əvˈɛnʧəli, bˌʌt nˌɑt tənˈIt."}
+{"text": "The recipe calls for 2 1/2 cups of flour, 3/4 cup of sugar, and 1 tsp. of salt. Preheat the oven to 375 degrees. Bake for 25 to 30 minutes, or until the top turns golden brown.", "phonemes": "ðə ɹˈɛsəpˌi kˈɔlz fɔɹ tˈu wˈʌn tˈu kˈʌps ʌv flˈWəɹ, θɹˈi fˈɔɹ kˈʌp ʌv ʃˈʊɡəɹ, ænd wˈʌn . ʌv sˈɔlt. pɹihˈit ði ˈʌvᵊn tə θɹˈi hˈʌndɹəd sˈɛvənti fˈIv dəɡɹˈiz. bˈAk fɔɹ twˈɛnti fˈIv tə θˈɜɹTi mˈɪnəts, ɔɹ ˌʌntˈɪl ðə tˈɑp tˈɜɹnz ɡˈOldən bɹˈWn."}
+{"text": "Visit https://example.com/docs for the full API reference. The endpoint POST /v1/audio/speech accepts JSON with a model field, an input field, and a voice field. Responses stream as chunked audio at 24 kHz.", "phonemes": "vˈɪzət ɪɡzˈæmpəl kˈɑm dˈɑks fɔɹ ðə fˈʊl ˌApˌiˈI ɹˈɛfəɹəns. ði ˈɛndpYnt pˈOst vˈiˈɔdiO spˈiʧ əksˈɛpts ʤˌAˌɛsˌOˈɛn wɪð ɐ mˈɑdᵊl fˈild, ɐn ˈɪnpˌʊt fˈild, ænd ɐ vˈYs fˈild. ɹəspˈɑnsᵻz stɹˈim æz ʧˈʌŋkt ˈɔdiO æt twˈɛnti fˈɔɹ kˈA."}
+{"text": "The lead engineer will lead the review on Thursday at 2:00 PM. Bring the revised schematics, the BOM in CSV format, and your notes from the Nov. 12 site visit.", "phonemes": "ðə lˈid ˌɛnʤənˈɪɹ wɪl lˈid ðə ɹəvjˈu ˌɔn θˈɜɹzdˌA æt tˈu zˈɪɹO zˈɪɹO pˌiˈɛm. bɹˈɪŋ ðə ɹəvˈIzd skəmˈæTɪks, ðə bˌiˌOˈɛm ɪn sˌiˌɛsvˈi fˈɔɹmˌæt, ænd jʊɹ nˈOts fɹʌm ðə  twˈɛlv sˈIt vˈɪzət."}
+{"text": "By the time the bus arrived it was 7:42 and the rain had turned to sleet. Nobody at the stop had an umbrella. A woman in a red coat offered to share hers, and three of us crowded underneath it for the eleven blocks to Main St.", "phonemes": "bˌI ðə tˈIm ðə bˈʌs əɹˈIvd ɪt wʌz sˈɛvən fˈɔɹTi tˈu ænd ðə ɹˈAn hæd tˈɜɹnd tə slˈit. nˈObˌɑdi æt ðə stˈɑp hæd ɐn ˌʌmbɹˈɛlə. ɐ wˈʊmən ɪn ɐ ɹˈɛd kˈOt ˈɔfəɹd tə ʃˈɛɹ hˈɜɹz, ænd θɹˈi ʌv ˌʌs kɹˈWdᵻd ˌʌndəɹnˈiθ ɪt fɔɹ ði əlˈɛvᵊn blˈɑks tə mˈAn "}
+{"text": "The 2024 report covers fiscal years 2019 through 2023. Revenue grew from $8.1 million to $23.7 million, a compound annual growth rate of about 30%. Headcount rose from 45 to 112 employees across 6 offices.", "phonemes": "ðə twˈɛnti twˈɛnti fˈɔɹ ɹəpˈɔɹt kˈʌvəɹz fˈɪskᵊl jˈɪɹz twˈɛnti nˌIntˈin θɹu twˈɛnti twˈɛnti θɹˈi. ɹˈɛvənˌu ɡɹˈu fɹʌm ˈAt pYnt wˈʌn mˈɪljᵊn dˈɑləɹz tə twˈɛnti θɹˈi pYnt sˈɛvən mˈɪljᵊn dˈɑləɹz, ɐ kˈɑmpˌWnd ˈænjəwəl ɡɹˈOθ ɹˈAt ʌv əbˈWt θˈɜɹTi pəɹsˈɛnt.  ɹˈOz fɹʌm fˈɔɹTi fˈIv tə wˈʌn hˈʌndɹəd twˈɛlv ˌɛmplˌYˈiz əkɹˈɔs sˈɪks ˈɔfəsᵻz."}
+{"text": "He tried to explain that the object of the exercise was not to object to every proposal. The committee, unconvinced, adjourned at 4:30 and reconvened the following Tuesday.", "phonemes": "hˌi tɹˈId tʊ ɪksplˈAn ðæt ði ˈɑbʤəkt ʌv ði ˈɛksəɹsˌIz wʌz nˌɑt tʊ əbʤˈɛkt tʊ ˈɛvəɹi pɹəpˈOzᵊl. ðə kəmˈɪTi, ˌʌnkənvˈɪnst, əʤˈɜɹnd æt fˈɔɹ θˈɜɹTi ænd ɹˌikənvˈind ðə fˈɑlOɪŋ tˈuzdˌA."}
+{"text": "Dr. Okonkwo, Prof. Lindqvist, and Ms. Vargas co-authored the paper. It appeared in Vol. 47, No. 3, pages 1102 through 1147, and has been cited 3,400 times since 2018.", "phonemes": "dˈɑktəɹ , pɹˈɑf , ænd mˈɪz  kˌOˈɔθəɹd ðə pˈApəɹ. ˌɪt əpˈɪɹd ɪn  fˈɔɹTi sˈɛvən, nˈʌmbəɹ θɹˈi, pˈAʤᵻz əlˈɛvᵊn ˈO tˈu θɹu əlˈɛvᵊn fˈɔɹTi sˈɛvən, ænd hæz bɪn sˈITᵻd θɹˈi θˈWzᵊnd fˈɔɹ hˈʌndɹəd tˈImz sˈɪns twˈɛnti ˌAtˈin."}
+{"text": "Turn the wind-up key three times, then wind the cord around the base. If the wind is strong, close the shutters. The device draws 0.5 amps at 12 volts.", "phonemes": "tˈɜɹn ðə wˈɪndˌʌp kˈi θɹˈi tˈImz, ðˈɛn wˈInd ðə kˈɔɹd əɹˈWnd ðə bˈAs. ˌɪf ðə wˈɪnd ɪz stɹˈɔŋ, klˈOz ðə ʃˈʌTəɹz. ðə dəvˈIs dɹˈɔz zˈɪɹO pYnt fˈIv ˈæmps æt twˈɛlv vˈOlts."}
+{"text": "Our flight leaves at 6:05 AM on 03/14/2025 from gate B12. Check-in closes 45 minutes prior. Baggage over 50 lbs. costs an extra $75 each way.", "phonemes": "ˌWəɹ flˈIt lˈivz æt sˈɪks zˈɪɹO fˈIv ˌAˈɛm ˌɔn θɹˈi fˌɔɹtˈin twˈɛnti twˈɛnti fˈIv fɹʌm ɡˈAt bˈi twˈɛlv. ʧˈɛkˌɪn klˈOzᵻz fˈɔɹTi fˈIv mˈɪnəts pɹˈIəɹ. bˈæɡɪʤ ˈOvəɹ fˈɪfti . kˈɔsts ɐn ˈɛkstɹə sˈɛvənti fˈIv dˈɑləɹz ˈiʧ wˈA."}
+{"text": "The bass player showed up with a striped bass he had caught that morning. Nobody knew what to do with it, so it sat in a cooler behind the amplifiers for the entire set.", "phonemes": "ðə bˈæs plˈAəɹ ʃˈOd ˌʌp wɪð ɐ stɹˈIpt bˈæs hi hæd kˈɔt ðˈæt mˈɔɹnɪŋ. nˈObˌɑdi nˈu wˌʌt tə dˈu wɪð ɪt, sˌO ɪt sˈæt ɪn ɐ kˈuləɹ bəhˈInd ði ˈæmpləfˌIəɹz fɔɹ ði əntˈIəɹ sˈɛt."}
+{"text": "Between 1914 and 1918, roughly 70 million people were mobilized. The armistice took effect at 11:00 AM on November 11, 1918, the eleventh hour of the eleventh day of the eleventh month.", "phonemes": "bətwˈin nˌIntˈin fˌɔɹtˈin ænd nˌIntˈin ˌAtˈin, ɹˈʌfli sˈɛvənti mˈɪljᵊn pˈipᵊl wɜɹ mˈObəlˌIzd. ði ˈɑɹməstəs tˈʊk əfˈɛkt æt əlˈɛvᵊn zˈɪɹO zˈɪɹO ˌAˈɛm ˌɔn nOvˈɛmbəɹ əlˈɛvᵊn, nˌIntˈin ˌAtˈin, ði əlˈɛvənθ ˈWəɹ ʌv ði əlˈɛvənθ dˈA ʌv ði əlˈɛvənθ mˈʌnθ."}
+{"text": "Download kokoro-v1.0.onnx, about 310 MB, and voices-v1.0.bin, about 27 MB, from the GitHub releases page. Verify the SHA-256 checksums before loading either file into the ONNX Runtime session.", "phonemes": "dˈWnlˌOd vˈi wˈʌn zˈɪɹO, əbˈWt θɹˈi hˈʌndɹəd tˈɛn ˌɛmbˈi, ænd vˈYsᵻz vˈi wˈʌn zˈɪɹO bˈɪn, əbˈWt twˈɛnti sˈɛvən ˌɛmbˈi, fɹʌm ðə ɡˌɪthˈʌb ɹəlˈisᵻz pˈAʤ. vˈɛɹəfˌI ði ˌɛsˌAʧˈA tˈu fˈɪfti sˈɪks ʧˈɛksˌʌmz bəfˈɔɹ lˈOdɪŋ ˈiðəɹ fˈIl ˈɪntu ði ˌOˌɛnˌɛnˈɛks ɹˈʌntIm sˈɛʃən."}
+{"text": "She had read every one of his letters, but she would not read this one aloud. Instead she set it on the mantel, next to the clock that had stopped at 3:17 sometime in April.", "phonemes": "ʃˌi hæd ɹˈɛd ˈɛvəɹi wˈʌn ʌv hɪz lˈɛTəɹz, bˌʌt ʃi wʊd nˌɑt ɹˈid ðɪs wˈʌn əlˈWd. ɪnstˈɛd ʃi sˈɛt ɪt ˌɔn ðə mˈæntᵊl, nˈɛkst tə ðə klˈɑk ðæt hæd stˈɑpt æt θɹˈi sˌɛvəntˈin sˈʌmtˌIm ɪn ˈApɹəl."}
+{"text": "Item 1 costs $12.99, item 2 costs $4.50, and item 3 costs $108.00. With 8.25% sales tax the total comes to $135.85. Payment is due within 30 days.", "phonemes": "ˈITəm wˈʌn kˈɔsts twˈɛlv dˈɑləɹz ænd nˈIndi nˈIn sˈɛnts, ˈITəm tˈu kˈɔsts fˈɔɹ dˈɑləɹz ænd fˈɪfti sˈɛnts, ænd ˈITəm θɹˈi kˈɔsts wˈʌn hˈʌndɹəd ˈAt dˈɑləɹz. wˌɪð ˈAt pYnt tˈu fˈIv pəɹsˈɛnt sˈAlz tˈæks ðə tˈOTᵊl kˈʌmz tə wˈʌn hˈʌndɹəd θˈɜɹTi fˈIv dˈɑləɹz ænd ˈATi fˈIv sˈɛnts. pˈAmᵊnt ɪz dˈu wɪðˈɪn θˈɜɹTi dˈAz."}
+{"text": "The IRS, the FBI, and the SEC all requested the same documents. Our counsel at Whitfield & Assoc. advised us to comply by Friday, Jan. 19, at 5:00 PM Eastern.", "phonemes": "ði ˌIˌɑɹˈɛs, ði ˌɛfbˌiˈI, ænd ði ˌɛsˌisˈi ˈɔl ɹəkwˈɛstᵻd ðə sˈAm dˈɑkjəmənts. ˌWəɹ kˈWnsᵊl æt  ænd . ədvˈIzd ˌʌs tə kəmplˈI bI fɹˈIdˌA,  nˌIntˈin, æt fˈIv zˈɪɹO zˈɪɹO pˌiˈɛm ˈistəɹn."}
+{"text": "It takes about 8 minutes and 20 seconds for light to travel the 93 million miles from the Sun to Earth. Signals from Mars take between 4 and 24 minutes depending on orbital positions.", "phonemes": "ˌɪt tˈAks əbˈWt ˈAt mˈɪnəts ænd twˈɛnti sˈɛkəndz fɔɹ lˈIt tə tɹˈævᵊl ðə nˈIndi θɹˈi mˈɪljᵊn mˈIlz fɹʌm ðə sˈʌn tʊ ˈɜɹθ. sˈɪɡnᵊlz fɹʌm mˈɑɹz tˈAk bətwˈin fˈɔɹ ænd twˈɛnti fˈɔɹ mˈɪnəts dᵻpˈɛndɪŋ ˌɔn ˈɔɹbəTᵊl pəzˈɪʃənz."}
+{"text": "Please read the terms at https://example.org/terms before you proceed. Section 4.2 covers liability, section 7.1 covers termination, and Appendix C lists the 14 supported jurisdictions.", "phonemes": "plˈiz ɹˈid ðə tˈɜɹmz æt slˌæʃ slˌæʃ ɪɡzˈæmpəl dˌɑt ˈɔɹɡ slˌæʃ tˈɜɹmz bəfˈɔɹ ju pɹəsˈid. sˈɛkʃən fˈɔɹ pYnt tˈu kˈʌvəɹz lˌIəbˈɪləTi, sˈɛkʃən sˈɛvən pYnt wˈʌn kˈʌvəɹz tˌɜɹmənˈAʃən, ænd əpˈɛndɪks sˈi lˈɪsts ðə fˌɔɹtˈin səpˈɔɹTᵻd ʤˌʊɹəsdˈɪkʃənz."}
+{"text": "The record shows he tried to record the conversation without consent. In the state of California that is a violation of Penal Code section 632, punishable by a fine of up to $2,500.", "phonemes": "ðə ɹˈɛkəɹd ʃˈOz hi tɹˈId tə ɹəkˈɔɹd ðə kˌɑnvəɹsˈAʃən wɪðˈWt kənsˈɛnt. ɪn ðə stˈAt ʌv kˌæləfˈɔɹnjə ðæt ɪz ɐ vˌIəlˈAʃən ʌv pˈinᵊl kˈOd sˈɛkʃən sˈɪks hˈʌndɹəd θˈɜɹTi tˈu, pˈʌnɪʃəbᵊl bI ɐ fˈIn ʌv ˌʌp tə tˈu θˈWzᵊnd fˈIv hˈʌndɹəd dˈɑləɹz."}
+{"text": "Snow started falling around 10 PM and by 6:00 the next morning there were 14 inches on the ground. Schools closed, the airport canceled 230 flights, and the city ran out of road salt by Wednesday.", "phonemes": "snˈO stˈɑɹTᵻd fˈɔlɪŋ əɹˈWnd tˈɛn pˌiˈɛm ænd bI sˈɪks zˈɪɹO zˈɪɹO ðə nˈɛkst mˈɔɹnɪŋ ðɛɹ wɜɹ fˌɔɹtˈin ˈɪnʧᵻz ˌɔn ðə ɡɹˈWnd. skˈulz klˈOzd, ði ˈɛɹpˌɔɹt kˈænsəld tˈu hˈʌndɹəd θˈɜɹTi flˈIts, ænd ðə sˈɪTi ɹˈæn ˈWt ʌv ɹˈOd sˈɔlt bI wˈɛnzdˌA."}
+{"text": "Mrs. Alvarez taught 4th grade for 32 years. She retired in 2011, moved to St. Petersburg, and now volunteers at the public library on Mon., Wed., and Fri. mornings.", "phonemes": "mˈɪsɪz  tˈɔt fˈɔɹθ ɡɹˈAd fɔɹ θˈɜɹTi tˈu jˈɪɹz. ʃˌi ɹətˈIəɹd ɪn twˈɛnti əlˈɛvᵊn, mˈuvd tə  pˈiTəɹzbˌɜɹɡ, ænd nˈW vˌɑləntˈɪɹz æt ðə pˈʌblɪk lˈIbɹˌɛɹi ˌɔn mˈOn, wˈɛd, ænd . mˈɔɹnɪŋz."}
+{"text": "The model takes tokens as an int64 tensor of shape 1 by N, a style vector of 256 floats, and a speed scalar. It returns 24 kHz audio. Sequences longer than 510 tokens must be chunked.", "phonemes": "ðə mˈɑdᵊl tˈAks tˈOkᵊnz æz ɐn sˈɪksti fˈɔɹ tˈɛnsəɹ ʌv ʃˈAp wˈʌn bI ˈɛn, ɐ stˈIl vˈɛktəɹ ʌv tˈu hˈʌndɹəd fˈɪfti sˈɪks flˈOts, ænd ɐ spˈid skˈAləɹ. ˌɪt ɹətˈɜɹnz twˈɛnti fˈɔɹ kˈA ˈɔdiO. sˈikwənsᵻz lˈɔŋɡəɹ ðən fˈIv hˈʌndɹəd tˈɛn tˈOkᵊnz mˈʌst bi ʧˈʌŋkt."}
+{"text": "He wound the bandage around the wound, checked his watch at 11:58, and decided the wind outside was too strong to walk home. The taxi cost $18.40 including tip.", "phonemes": "hˌi wˈWnd ðə bˈændɪʤ əɹˈWnd ðə wˈund, ʧˈɛkt hɪz wˈɑʧ æt əlˈɛvᵊn fˈɪfti ˈAt, ænd dəsˈIdᵻd ðə wˈɪnd ˌWtsˈId wʌz tˈu stɹˈɔŋ tə wˈɔk hˈOm. ðə tˈæksi kˈɔst ˌAtˈin dˈɑləɹz ænd fˈɔɹTi sˈɛnts ɪnklˈudɪŋ tˈɪp."}

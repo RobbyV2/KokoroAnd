@@ -1,0 +1,29 @@
+import "../common.just"
+import "./build.just"
+import "./run.just"
+import "./test.just"
+
+default:
+  just --list
+
+# Install toolchain and ui deps
+install:
+  cd {{ROOT}}/ui && bun install
+  cargo install tauri-cli --locked
+  cargo install taplo-cli --locked
+
+# Amend no edit
+amend:
+  git commit --amend --no-edit
+
+# Force push
+fp:
+  git push --force-with-lease
+
+# Amend and force push
+afp:
+  git commit --amend --no-edit && git push --force-with-lease
+
+# Add, amend and force push
+aafp:
+  git add . && git commit --amend --no-edit && git push --force-with-lease

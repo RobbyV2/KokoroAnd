@@ -1,0 +1,8 @@
+/target
+.venv
+node_modules
+ui/dist
+/temp
+.DS_Store
+.playwright-mcp/
+.kotlin/

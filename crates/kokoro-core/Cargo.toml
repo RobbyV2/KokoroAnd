@@ -1,0 +1,10 @@
+[package]
+name = "kokoro-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde.workspace = true
+thiserror.workspace = true
+ort = "=2.0.0-rc.13"
+zip = { version = "2", default-features = false }

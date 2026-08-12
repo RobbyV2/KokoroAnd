@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>KokoroAnd</title>
+    <link rel="icon" type="image/svg+xml" href="./logo.svg" />
+  </head>
+  <body>
+    <main>
+      <section id="view-onboarding" hidden>
+        <h1>KokoroAnd</h1>
+        <p>54 voices, 8 languages, system TTS, local API.</p>
+        <div id="ob-variant" class="variant-picker">
+          <label>
+            <input type="radio" name="ob-variant" value="fp16" checked />
+            <span>fp16</span>
+            <span class="hint">Faster, uses less space.</span>
+          </label>
+          <label>
+            <input type="radio" name="ob-variant" value="fp32" />
+            <span>fp32</span>
+          </label>
+        </div>
+        <md-linear-progress id="ob-bar" hidden></md-linear-progress>
+        <p id="ob-status" class="hint"></p>
+        <div class="row">
+          <md-filled-button id="ob-download">Download models</md-filled-button>
+          <md-text-button id="ob-cancel" hidden>Cancel</md-text-button>
+          <md-filled-button id="ob-enter" hidden>Enter app</md-filled-button>
+        </div>
+        <p class="hint">Interrupted downloads resume.</p>
+      </section>
+
+      <section id="view-home" hidden>
+        <h1>KokoroAnd</h1>
+        <div id="home-missing" class="card warn" hidden>
+          <p>Models are not installed.</p>
+          <md-filled-tonal-button id="home-reinstall">Reinstall models</md-filled-tonal-button>
+        </div>
+        <div id="home-ready" class="card" hidden>
+          <p id="home-status"></p>
+        </div>
+        <h2>Try it</h2>
+        <md-outlined-text-field
+          id="demo-text"
+          type="textarea"
+          rows="3"
+          label="Text"
+          value="Hello, this is a TTS test."
+        ></md-outlined-text-field>
+        <div class="row">
+          <md-filled-button id="demo-play">Play</md-filled-button>
+          <span id="demo-state" class="hint"></span>
+        </div>
+        <p id="demo-error" class="error" hidden></p>
+      </section>
+
+      <section id="view-settings" hidden>
+        <h1>Settings</h1>
+
+        <h2>Voice</h2>
+        <md-outlined-select id="set-voice" label="Default voice"></md-outlined-select>
+        <md-outlined-text-field
+          id="set-mix"
+          label="Voice mix"
+          supporting-text="af_bella(0.6)+af_sky(0.4); blank uses the default voice"
+        ></md-outlined-text-field>
+        <label class="row-between">
+          <span>Speed <span id="set-speed-val"></span></span>
+          <md-slider id="set-speed" min="0.25" max="4" step="0.05" labeled></md-slider>
+        </label>
+        <md-outlined-text-field
+          id="set-threads"
+          label="Threads"
+          type="number"
+          supporting-text="0 = automatic (power cores)"
+        ></md-outlined-text-field>
+
+        <h2>API server</h2>
+        <label class="row-between">
+          <span>Enable local API</span>
+          <md-switch id="set-server"></md-switch>
+        </label>
+        <md-outlined-select id="set-host" label="Host">
+          <md-select-option value="127.0.0.1"
+            ><div slot="headline">127.0.0.1</div></md-select-option
+          >
+          <md-select-option value="0.0.0.0"><div slot="headline">0.0.0.0</div></md-select-option>
+        </md-outlined-select>
+        <md-outlined-text-field id="set-port" label="Port" type="number"></md-outlined-text-field>
+        <div class="row-between">
+          <span id="api-status" class="hint"></span>
+          <md-text-button id="api-copy" hidden>Copy URL</md-text-button>
+        </div>
+
+        <h2>Phonetic dictionary</h2>
+        <div class="row">
+          <md-outlined-button id="dict-import">Import JSON</md-outlined-button>
+          <md-outlined-button id="dict-export">Export JSON</md-outlined-button>
+        </div>
+        <div id="dict-entries"></div>
+        <div class="row">
+          <md-outlined-text-field id="dict-word" label="Word"></md-outlined-text-field>
+          <md-outlined-text-field id="dict-ipa" label="IPA"></md-outlined-text-field>
+          <md-text-button id="dict-add">Add</md-text-button>
+        </div>
+
+        <h2>Speech</h2>
+        <label class="row-between">
+          <span>
+            Emotion tags
+            <span class="hint"
+              >[whispers] [angry] [sad] [sarcastic] [giggles] [normal] inline in text</span
+            >
+          </span>
+          <md-switch id="set-emotion"></md-switch>
+        </label>
+        <label class="row-between">
+          <span>
+            Smart punctuation
+            <span class="hint">pauses after , . ! ? and ellipses</span>
+          </span>
+          <md-switch id="set-punct"></md-switch>
+        </label>
+
+        <h2>Engine</h2>
+        <label class="row-between">
+          <span>
+            Always on
+            <span class="hint">The engine holds the model in memory.</span>
+          </span>
+          <md-switch id="set-always"></md-switch>
+        </label>
+
+        <h2>Model</h2>
+        <div class="row-between">
+          <span id="model-active" class="hint"></span>
+          <md-outlined-button id="model-switch">Switch</md-outlined-button>
+        </div>
+
+        <h2>Storage</h2>
+        <div class="row-between">
+          <span>Clear synthesis cache</span>
+          <md-outlined-button id="set-clear-cache">Clear</md-outlined-button>
+        </div>
+        <div class="row-between">
+          <span>Delete downloaded models</span>
+          <md-outlined-button id="set-delete">Delete</md-outlined-button>
+        </div>
+
+        <h2>System</h2>
+        <div class="row-between">
+          <span>Battery optimization exemption</span>
+          <md-outlined-button id="set-battery">Request</md-outlined-button>
+        </div>
+
+        <h2>About</h2>
+        <p class="hint" id="about-version">KokoroAnd</p>
+        <p class="hint">Kokoro model and misaki lexicons Apache-2.0. Material Web Apache-2.0.</p>
+      </section>
+    </main>
+
+    <md-dialog id="confirm-delete">
+      <div slot="headline">Delete models?</div>
+      <div slot="content">Synthesis, the system TTS engine, and the local API stop.</div>
+      <div slot="actions">
+        <md-text-button value="cancel">Cancel</md-text-button>
+        <md-text-button value="delete">Delete</md-text-button>
+      </div>
+    </md-dialog>
+
+    <div id="snackbar" hidden>
+      <span id="snackbar-text"></span>
+      <md-text-button id="snackbar-action" hidden></md-text-button>
+    </div>
+
+    <nav>
+      <button data-view="home" class="active">
+        <svg viewBox="0 0 24 24"><path d="M12 3l9 8h-3v9h-4v-6H10v6H6v-9H3z" /></svg>
+        <span>Home</span>
+      </button>
+      <button data-view="settings">
+        <svg viewBox="0 0 24 24">
+          <path
+            d="M19.4 13a7.6 7.6 0 0 0 0-2l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-1.7-1L15 3.5h-4l-.3 2.5a7.6 7.6 0 0 0-1.7 1l-2.4-1-2 3.4L6.6 11a7.6 7.6 0 0 0 0 2l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 1.7 1l.3 2.5h4l.3-2.5a7.6 7.6 0 0 0 1.7-1l2.4 1 2-3.4zM13 15a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"
+            transform="translate(-1 -1)"
+          />
+        </svg>
+        <span>Settings</span>
+      </button>
+    </nav>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

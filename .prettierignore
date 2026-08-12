@@ -1,0 +1,11 @@
+node_modules
+target
+temp
+.venv
+ui/dist
+src-tauri/gen
+bun.lock
+Cargo.lock
+CLAUDE.md
+**/CLAUDE.md
+.remember

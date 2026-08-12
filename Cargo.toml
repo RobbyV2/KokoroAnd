@@ -1,0 +1,26 @@
+[workspace]
+resolver = "3"
+members = [
+  "crates/kokoro-core",
+  "crates/kokoro-g2p",
+  "crates/kokoro-server",
+  "src-tauri",
+]
+
+[workspace.package]
+version = "1.0.0"
+edition = "2024"
+
+[workspace.dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+kokoro-core = { path = "crates/kokoro-core" }
+kokoro-g2p = { path = "crates/kokoro-g2p" }
+kokoro-server = { path = "crates/kokoro-server" }
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

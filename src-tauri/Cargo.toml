@@ -1,0 +1,36 @@
+[package]
+name = "kokoro-app"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "app_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+anyhow.workspace = true
+futures-util = "0.3"
+kokoro-core.workspace = true
+kokoro-g2p.workspace = true
+kokoro-server.workspace = true
+reqwest = { version = "0.12", default-features = false, features = [
+  "http2",
+  "rustls-tls",
+  "stream",
+] }
+serde.workspace = true
+serde_json.workspace = true
+sha2 = "0.10"
+tauri = { version = "2", features = [] }
+tokio = { version = "1", features = ["sync"] }
+
+[target.'cfg(target_os = "android")'.dependencies]
+jni = "0.21"
+ndk-context = "0.1"
+tokio = { version = "1", features = ["rt-multi-thread", "sync"] }
+
+[dev-dependencies]
+tokio = { version = "1", features = ["rt-multi-thread"] }
